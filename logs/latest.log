@@ -67,3 +67,8 @@ java.io.IOException: The handle is invalid
 [21:01:04] [Server thread/INFO]: adamcorn joined the game
 [21:02:50] [Server thread/INFO]: ruvane3 lost connection: Disconnected
 [21:02:50] [Server thread/INFO]: ruvane3 left the game
+[21:11:11] [User Authenticator #4/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[21:11:11] [Server thread/INFO]: ruvane3[/73.203.118.151:51934] logged in with entity id 2044 at (-208.90692866668851, 72.0, 17.725459923714993)
+[21:11:11] [Server thread/INFO]: ruvane3 joined the game
+[21:11:18] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[21:11:18] [Server thread/INFO]: ruvane3 left the game
