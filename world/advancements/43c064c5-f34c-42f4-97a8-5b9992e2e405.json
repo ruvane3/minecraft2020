@@ -429,6 +429,7 @@
     "criteria": {
       "cooked_porkchop": "2020-03-19 21:12:47 -0600",
       "cooked_mutton": "2020-03-17 21:25:23 -0600",
+      "cooked_beef": "2020-03-20 20:44:42 -0600",
       "bread": "2020-03-19 21:34:27 -0600",
       "cooked_chicken": "2020-03-17 21:40:28 -0600"
     },
@@ -1351,6 +1352,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-03-19 21:01:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-03-20 20:55:53 -0600"
     },
     "done": true
   },
