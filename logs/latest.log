@@ -1,13 +1,12 @@
-[19:11:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:11:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:11:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:11:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:11:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:11:34] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:11:34] [Server thread/INFO]: Loading properties
-[19:11:34] [Server thread/INFO]: Default game type: SURVIVAL
-[19:11:34] [Server thread/INFO]: Generating keypair
-[19:11:34] [Server console handler/ERROR]: Exception handling console input
+[20:17:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:40] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:17:40] [Server thread/INFO]: Loading properties
+[20:17:40] [Server thread/INFO]: Default game type: SURVIVAL
+[20:17:40] [Server thread/INFO]: Generating keypair
+[20:17:40] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
@@ -21,54 +20,34 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
 	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
-[19:11:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:11:34] [Server thread/INFO]: Using default channel type
-[19:11:36] [Server thread/WARN]: Failed to load operators list: 
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 7 column 2 path $[1]
-	at abk.a(SourceFile:508) ~[minecraft2020.jar:?]
-	at abk.a(SourceFile:524) ~[minecraft2020.jar:?]
-	at zs.g(SourceFile:146) ~[minecraft2020.jar:?]
-	at wc.A(SourceFile:106) [minecraft2020.jar:?]
-	at wc.<init>(SourceFile:29) [minecraft2020.jar:?]
-	at wd.d(SourceFile:186) [minecraft2020.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:628) [minecraft2020.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 7 column 2 path $[1]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[minecraft2020.jar:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[minecraft2020.jar:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:560) ~[minecraft2020.jar:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[minecraft2020.jar:?]
-	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:81) ~[minecraft2020.jar:?]
-	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:61) ~[minecraft2020.jar:?]
-	at abk.a(SourceFile:506) ~[minecraft2020.jar:?]
-	... 7 more
-[19:11:36] [Server thread/INFO]: Preparing level "world"
-[19:11:36] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:11:36] [Server thread/INFO]: Loaded 6 recipes
-[19:11:36] [Server thread/INFO]: Loaded 825 advancements
-[19:11:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:11:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:11:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:11:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:11:39] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[19:11:39] [Server thread/INFO]: Preparing spawn area: 81%
-[19:11:39] [Server thread/INFO]: Time elapsed: 2086 ms
-[19:11:39] [Server thread/INFO]: Done (3.334s)! For help, type "help"
-[19:12:37] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[19:12:37] [Server thread/INFO]: ruvane3[/73.203.118.151:55377] logged in with entity id 168 at (6.737283897752217, 63.0, -61.80520339505408)
-[19:12:37] [Server thread/INFO]: ruvane3 joined the game
-[19:13:07] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[19:13:07] [Server thread/INFO]: ruvane3 left the game
-[19:17:15] [Server thread/INFO]: Stopping the server
-[19:17:15] [Server thread/INFO]: Stopping server
-[19:17:15] [Server thread/INFO]: Saving players
-[19:17:15] [Server thread/INFO]: Saving worlds
-[19:17:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:17:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:17:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:17:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:17:40] [Server thread/INFO]: Using default channel type
+[20:17:41] [Server thread/INFO]: Preparing level "world"
+[20:17:42] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:17:42] [Server thread/INFO]: Loaded 6 recipes
+[20:17:42] [Server thread/INFO]: Loaded 825 advancements
+[20:17:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:17:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:45] [Server thread/INFO]: Preparing spawn area: 60%
+[20:17:45] [Server thread/INFO]: Time elapsed: 1624 ms
+[20:17:45] [Server thread/INFO]: Done (3.272s)! For help, type "help"
+[20:18:52] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:18:52] [Server thread/INFO]: ruvane3[/73.203.118.151:50595] logged in with entity id 173 at (6.589998800833079, 63.0, -60.10630975402643)
+[20:18:52] [Server thread/INFO]: ruvane3 joined the game
+[22:12:51] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[22:12:51] [Server thread/INFO]: ruvane3 left the game
+[22:13:01] [Server thread/INFO]: Stopping the server
+[22:13:01] [Server thread/INFO]: Stopping server
+[22:13:01] [Server thread/INFO]: Saving players
+[22:13:01] [Server thread/INFO]: Saving worlds
+[22:13:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:13:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:13:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:13:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:13:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
