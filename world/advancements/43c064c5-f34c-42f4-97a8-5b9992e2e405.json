@@ -526,9 +526,13 @@
     "criteria": {
       "minecraft:pillager": "2020-03-19 22:37:53 -0600",
       "minecraft:skeleton": "2020-03-17 21:43:03 -0600",
+      "minecraft:spider": "2020-03-25 22:56:07 -0600",
+      "minecraft:creeper": "2020-03-25 22:55:37 -0600",
       "minecraft:husk": "2020-03-24 20:20:14 -0600",
+      "minecraft:cave_spider": "2020-03-25 23:42:20 -0600",
       "minecraft:zombie": "2020-03-21 17:20:27 -0600",
-      "minecraft:drowned": "2020-03-21 17:41:42 -0600"
+      "minecraft:drowned": "2020-03-21 17:41:42 -0600",
+      "minecraft:zombie_villager": "2020-03-25 22:51:50 -0600"
     },
     "done": false
   },
@@ -832,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-03-25 22:45:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2020-03-17 21:19:40 -0600"
@@ -1117,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-25 21:23:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-21 18:33:19 -0600"
@@ -1132,6 +1148,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-03-21 18:14:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-03-25 22:13:13 -0600"
     },
     "done": true
   },
@@ -1563,6 +1585,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-03-19 20:38:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-25 22:55:44 -0600"
     },
     "done": true
   },
@@ -2055,6 +2083,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-03-20 23:41:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-03-25 22:13:13 -0600"
     },
     "done": true
   },

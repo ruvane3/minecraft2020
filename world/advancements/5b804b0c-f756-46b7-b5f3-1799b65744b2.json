@@ -374,7 +374,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2020-03-17 21:38:04 -0600",
-      "cooked_beef": "2020-03-20 21:45:10 -0600"
+      "cooked_beef": "2020-03-20 21:45:10 -0600",
+      "bread": "2020-03-25 22:57:01 -0600"
     },
     "done": false
   },
@@ -615,6 +616,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-03-17 21:22:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-03-25 23:08:01 -0600"
     },
     "done": true
   },
@@ -1535,6 +1542,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-03-17 21:17:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-03-25 23:42:24 -0600"
     },
     "done": true
   },
