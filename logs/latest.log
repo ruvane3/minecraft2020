@@ -1,121 +1,321 @@
-[20:44:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:44:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:44:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:44:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:44:47] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:44:47] [Server thread/INFO]: Loading properties
-[20:44:47] [Server thread/INFO]: Default game type: SURVIVAL
-[20:44:47] [Server thread/INFO]: Generating keypair
-[20:44:47] [Server console handler/ERROR]: Exception handling console input
+[18:35:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:35:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:35:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:35:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:35:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:35:11] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:35:11] [Server thread/INFO]: Loading properties
+[18:35:11] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:11] [Server thread/INFO]: Generating keypair
+[18:35:11] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:283) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:344) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
 	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
-[20:44:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:44:47] [Server thread/INFO]: Using default channel type
-[20:44:50] [Server thread/INFO]: Preparing level "world"
-[20:44:50] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:44:50] [Server thread/INFO]: Loaded 6 recipes
-[20:44:51] [Server thread/INFO]: Loaded 825 advancements
-[20:44:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:44:52] [Server thread/INFO]: Preparing spawn area: 0%
-[20:44:52] [Server thread/INFO]: Preparing spawn area: 0%
-[20:44:52] [Server thread/INFO]: Preparing spawn area: 41%
-[20:44:53] [Server thread/INFO]: Time elapsed: 1128 ms
-[20:44:53] [Server thread/INFO]: Done (2.954s)! For help, type "help"
-[20:45:40] [User Authenticator #1/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[20:45:41] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:60440] logged in with entity id 169 at (-11.767982909868852, 72.0, -128.10604626422958)
-[20:45:41] [Server thread/INFO]: Enigma_Sage joined the game
-[20:45:44] [User Authenticator #2/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[20:45:44] [Server thread/INFO]: ruvane3[/73.203.118.151:50218] logged in with entity id 319 at (-0.4393776132764795, 64.0, -107.16254422302929)
-[20:45:44] [Server thread/INFO]: ruvane3 joined the game
-[21:00:27] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[21:00:27] [Server thread/INFO]: Enigma_Sage left the game
-[21:00:33] [User Authenticator #3/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[21:00:33] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:60467] logged in with entity id 2472 at (-6.540492290836606, 86.0, -155.29875279480788)
-[21:00:33] [Server thread/INFO]: Enigma_Sage joined the game
-[21:11:04] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[21:11:04] [Server thread/INFO]: Enigma_Sage left the game
-[21:11:09] [User Authenticator #4/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[21:11:09] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:60506] logged in with entity id 4550 at (-4.539625514527037, 67.0, -157.15754855345915)
-[21:11:09] [Server thread/INFO]: Enigma_Sage joined the game
-[21:42:43] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/10595, l='world', x=-29.96, y=79.00, z=-66.88]
-[21:59:26] [Server thread/WARN]: ruvane3 moved wrongly!
-[22:08:27] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[22:08:27] [Server thread/INFO]: ruvane3 left the game
-[22:08:53] [User Authenticator #5/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[22:08:53] [Server thread/INFO]: ruvane3[/73.203.118.151:50446] logged in with entity id 15646 at (-12.318064684091935, 14.0, -58.49417759483272)
-[22:08:53] [Server thread/INFO]: ruvane3 joined the game
-[22:25:25] [User Authenticator #6/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[22:25:25] [Server thread/INFO]: adamcorn[/71.231.143.243:58593] logged in with entity id 19803 at (2.938616691135055, 65.0, -101.47092391867146)
-[22:25:25] [Server thread/INFO]: adamcorn joined the game
-[22:26:08] [Server thread/INFO]: <ruvane3> heyyyy
-[22:26:12] [Server thread/INFO]: <ruvane3> we can hear you
-[22:36:15] [Server thread/WARN]: adamcorn moved wrongly!
-[22:40:35] [Server thread/WARN]: adamcorn moved wrongly!
-[22:41:15] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[22:41:15] [Server thread/INFO]: ruvane3 left the game
-[22:41:29] [User Authenticator #7/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[22:41:29] [Server thread/INFO]: ruvane3[/73.203.118.151:50685] logged in with entity id 22315 at (-67.30000001192091, 27.0, -50.281667370728066)
-[22:41:29] [Server thread/INFO]: ruvane3 joined the game
-[22:51:55] [Server thread/INFO]: <Enigma_Sage> no
-[22:52:10] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[22:52:10] [Server thread/INFO]: ruvane3 left the game
-[22:52:15] [User Authenticator #8/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[22:52:15] [Server thread/INFO]: ruvane3[/73.203.118.151:50781] logged in with entity id 24181 at (-41.03442934835571, 33.0, -3.687039896698837)
-[22:52:15] [Server thread/INFO]: ruvane3 joined the game
-[23:02:48] [Server thread/INFO]: <Enigma_Sage> sleepy time
-[23:02:52] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[23:02:52] [Server thread/INFO]: ruvane3 left the game
-[23:02:55] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[23:02:55] [Server thread/INFO]: adamcorn left the game
-[23:03:06] [User Authenticator #9/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[23:03:06] [Server thread/INFO]: adamcorn[/71.231.143.243:58713] logged in with entity id 26107 at (6.100843561087984, 62.9375, -106.39210791841568)
-[23:03:06] [Server thread/INFO]: adamcorn joined the game
-[23:03:07] [User Authenticator #10/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[23:03:07] [Server thread/INFO]: ruvane3[/73.203.118.151:50866] logged in with entity id 26134 at (-45.77534765864498, 61.0, 1.7957744664106596)
-[23:03:07] [Server thread/INFO]: ruvane3 joined the game
-[23:08:01] [Server thread/INFO]: adamcorn has made the advancement [Suit Up]
-[23:13:36] [Server thread/INFO]: <Enigma_Sage> slp
-[23:30:27] [Server thread/WARN]: ruvane3 moved wrongly!
-[23:30:27] [Server thread/WARN]: ruvane3 moved wrongly!
-[23:31:48] [Server thread/WARN]: Enigma_Sage moved too quickly! 0.6585259081941579,-10.572894103966505,1.4667418301253434
-[23:32:02] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[23:32:02] [Server thread/INFO]: adamcorn left the game
-[23:32:09] [Server thread/INFO]: <Enigma_Sage> kyler
-[23:32:16] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[23:32:16] [Server thread/INFO]: ruvane3 left the game
-[23:32:18] [User Authenticator #11/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[23:32:18] [Server thread/INFO]: ruvane3[/73.203.118.151:51091] logged in with entity id 29751 at (-23.667224641813974, 33.0, -2.2689925845551837)
-[23:32:18] [Server thread/INFO]: ruvane3 joined the game
-[23:32:22] [User Authenticator #12/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[23:32:22] [Server thread/INFO]: adamcorn[/71.231.143.243:58796] logged in with entity id 29779 at (21.795474010904766, 81.0, -20.300000011920925)
-[23:32:22] [Server thread/INFO]: adamcorn joined the game
-[23:32:38] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[23:32:38] [Server thread/INFO]: Enigma_Sage left the game
-[23:44:31] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[23:44:31] [Server thread/INFO]: ruvane3 left the game
-[23:44:34] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[23:44:34] [Server thread/INFO]: adamcorn left the game
-[23:44:41] [Server thread/INFO]: Stopping the server
-[23:44:41] [Server thread/INFO]: Stopping server
-[23:44:41] [Server thread/INFO]: Saving players
-[23:44:41] [Server thread/INFO]: Saving worlds
-[23:44:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:44:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:44:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:44:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:44:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:44:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:44:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:35:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:11] [Server thread/INFO]: Using default channel type
+[18:35:12] [Server thread/INFO]: Preparing level "world"
+[18:35:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:35:15] [Server thread/INFO]: Loaded 6 recipes
+[18:35:15] [Server thread/INFO]: Loaded 825 advancements
+[18:35:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:35:16] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:16] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:16] [Server thread/INFO]: Time elapsed: 884 ms
+[18:35:16] [Server thread/INFO]: Done (4.083s)! For help, type "help"
+[18:36:09] [User Authenticator #1/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[18:36:09] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:55862] logged in with entity id 175 at (0.7934364914267358, 64.0, -58.30000001192093)
+[18:36:09] [Server thread/INFO]: Enigma_Sage joined the game
+[18:43:53] [User Authenticator #2/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[18:43:53] [Server thread/INFO]: rmeredith[/67.242.119.193:53409] logged in with entity id 1290 at (-184.52019949700832, 11.0, -80.33507790787134)
+[18:43:53] [Server thread/INFO]: rmeredith joined the game
+[18:57:15] [Server thread/INFO]: Enigma_Sage has made the advancement [Best Friends Forever]
+[18:58:20] [Server thread/INFO]: rmeredith has made the advancement [Best Friends Forever]
+[18:58:50] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[18:58:50] [Server thread/INFO]: rmeredith left the game
+[18:59:46] [User Authenticator #3/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[18:59:46] [Server thread/INFO]: rmeredith[/67.242.119.193:53455] logged in with entity id 3634 at (-37.6468060449375, 85.0, -45.60731910565423)
+[18:59:46] [Server thread/INFO]: rmeredith joined the game
+[19:00:52] [User Authenticator #4/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[19:00:52] [Server thread/INFO]: adamcorn[/71.231.143.243:59559] logged in with entity id 3794 at (-21.48481066604146, 29.0, 1.0231374420290948)
+[19:00:52] [Server thread/INFO]: adamcorn joined the game
+[19:06:42] [Server thread/WARN]: rmeredith moved too quickly! 8.612427373297002,0.0,5.128184443273753
+[19:09:27] [Server thread/WARN]: Enigma_Sage moved wrongly!
+[19:10:27] [Server thread/INFO]: Enigma_Sage has made the advancement [Fishy Business]
+[19:12:56] [User Authenticator #5/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:12:56] [Server thread/INFO]: ruvane3[/73.203.118.151:50069] logged in with entity id 5344 at (-21.431200453697077, 29.0, -1.2880922316007049)
+[19:12:56] [Server thread/INFO]: ruvane3 joined the game
+[19:13:31] [Server thread/WARN]: Enigma_Sage moved wrongly!
+[19:19:42] [Server thread/INFO]: ruvane3 lost connection: Timed out
+[19:19:42] [Server thread/INFO]: ruvane3 left the game
+[19:19:53] [User Authenticator #6/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:19:53] [Server thread/INFO]: ruvane3[/73.203.118.151:50175] logged in with entity id 6396 at (-17.300000011920925, 66.30543845175121, -58.300000011920915)
+[19:19:53] [Server thread/INFO]: ruvane3 joined the game
+[19:21:03] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[19:21:03] [Server thread/INFO]: adamcorn left the game
+[19:21:04] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[19:21:04] [Server thread/INFO]: rmeredith left the game
+[19:21:10] [User Authenticator #7/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[19:21:10] [Server thread/INFO]: rmeredith[/67.242.119.193:53512] logged in with entity id 6718 at (-19.688615972769767, 69.0, -66.25912719819712)
+[19:21:10] [Server thread/INFO]: rmeredith joined the game
+[19:21:11] [User Authenticator #8/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[19:21:11] [Server thread/INFO]: adamcorn[/71.231.143.243:59877] logged in with entity id 6723 at (-43.38358776646165, 84.0, -36.38222125594359)
+[19:21:11] [Server thread/INFO]: adamcorn joined the game
+[19:26:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=92, y=123, z=-10} fk{x=93, y=123, z=-10}
+[19:27:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-33, y=98, z=-7} fk{x=-32, y=100, z=-7}
+[19:27:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-33, y=98, z=-7} fk{x=-32, y=100, z=-7}
+[19:31:58] [Server thread/WARN]: Enigma_Sage moved wrongly!
+[19:32:22] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[19:32:22] [Server thread/INFO]: adamcorn left the game
+[19:32:47] [User Authenticator #9/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[19:32:47] [Server thread/INFO]: adamcorn[/71.231.143.243:59897] logged in with entity id 10328 at (9.935749846894742, 59.0, -103.48356386177248)
+[19:32:47] [Server thread/INFO]: adamcorn joined the game
+[19:33:59] [Server thread/WARN]: Fetching packet for removed entity awb['Sandstone'/10805, l='world', x=5.91, y=58.00, z=-107.27]
+[19:37:14] [Server thread/WARN]: Enigma_Sage moved wrongly!
+[19:41:35] [User Authenticator #10/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:41:35] [Server thread/INFO]: ruvane3 lost connection: You logged in from another location
+[19:41:35] [Server thread/INFO]: ruvane3 left the game
+[19:41:35] [Server thread/INFO]: ruvane3[/73.203.118.151:50245] logged in with entity id 12944 at (4.962324046903822, 62.0, -64.62974023609695)
+[19:41:35] [Server thread/INFO]: ruvane3 joined the game
+[19:42:24] [Server thread/WARN]: ruvane3 moved too quickly! 3.0769403464262837,0.0,9.689036124043987
+[19:42:49] [User Authenticator #11/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:42:49] [Server thread/INFO]: ruvane3 lost connection: You logged in from another location
+[19:42:49] [Server thread/INFO]: ruvane3 left the game
+[19:42:49] [Server thread/INFO]: ruvane3[/73.203.118.151:50252] logged in with entity id 13196 at (7.546939887808604, 63.0, -47.05977878577227)
+[19:42:49] [Server thread/INFO]: ruvane3 joined the game
+[19:43:13] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[19:43:13] [Server thread/INFO]: adamcorn left the game
+[19:43:17] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[19:43:17] [Server thread/INFO]: rmeredith left the game
+[19:43:28] [User Authenticator #12/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[19:43:28] [Server thread/INFO]: adamcorn[/71.231.143.243:64567] logged in with entity id 13282 at (12.309240821599698, 70.0, -118.59748562774433)
+[19:43:28] [Server thread/INFO]: adamcorn joined the game
+[19:43:35] [Server thread/INFO]: ruvane3 lost connection: Timed out
+[19:43:35] [Server thread/INFO]: ruvane3 left the game
+[19:43:38] [User Authenticator #13/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:43:38] [Server thread/INFO]: ruvane3[/73.203.118.151:50256] logged in with entity id 13332 at (-1.700000025331974, 64.0000002, -58.700000025331974)
+[19:43:38] [Server thread/INFO]: ruvane3 joined the game
+[19:44:03] [User Authenticator #14/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[19:44:03] [Server thread/INFO]: rmeredith[/67.242.119.193:53568] logged in with entity id 13377 at (-184.33876940946737, 11.0, -117.11471838183064)
+[19:44:03] [Server thread/INFO]: rmeredith joined the game
+[19:44:08] [Server thread/INFO]: ruvane3 lost connection: Timed out
+[19:44:08] [Server thread/INFO]: ruvane3 left the game
+[19:44:25] [User Authenticator #15/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:44:25] [Server thread/INFO]: ruvane3[/73.203.118.151:50360] logged in with entity id 13496 at (3.0300232974802483, 64.0, -62.75274175754623)
+[19:44:25] [Server thread/INFO]: ruvane3 joined the game
+[19:44:41] [Server thread/WARN]: Enigma_Sage moved wrongly!
+[19:48:58] [Server thread/WARN]: Enigma_Sage moved too quickly! 0.45000737711233163,-9.866475867527697,-3.0500982842996223
+[19:51:56] [Server thread/INFO]: ruvane3 lost connection: Timed out
+[19:51:56] [Server thread/INFO]: ruvane3 left the game
+[19:54:22] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[19:54:22] [Server thread/INFO]: adamcorn left the game
+[19:54:27] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[19:54:27] [Server thread/INFO]: rmeredith left the game
+[19:54:33] [User Authenticator #17/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[19:54:33] [Server thread/INFO]: rmeredith[/67.242.119.193:53593] logged in with entity id 15591 at (-185.48909161307196, 11.0, -162.08633328520392)
+[19:54:33] [Server thread/INFO]: rmeredith joined the game
+[19:54:33] [User Authenticator #16/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[19:54:34] [Server thread/INFO]: ruvane3[/73.203.118.151:50605] logged in with entity id 15662 at (-17.40792676461986, 62.0, -58.30000001192093)
+[19:54:34] [Server thread/INFO]: ruvane3 joined the game
+[19:54:37] [User Authenticator #18/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[19:54:37] [Server thread/INFO]: adamcorn[/71.231.143.243:64599] logged in with entity id 15669 at (6.92509341708489, 61.0, -115.30000001192093)
+[19:54:37] [Server thread/INFO]: adamcorn joined the game
+[20:00:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=409, y=50, z=277} fk{x=409, y=51, z=277}
+[20:00:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=409, y=50, z=277} fk{x=409, y=51, z=277}
+[20:03:31] [Server thread/WARN]: Enigma_Sage moved too quickly! 0.010638283329342357,0.0,-10.101537933192134
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -4.448262498345741,0.0,-9.368241675083539
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -4.571048776982366,0.0,-9.746645499743124
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -4.6893299447871755,0.0,-10.126446316667966
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -4.803289244792268,0.0,-10.507556431650784
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -4.913802859345253,0.0,-10.889757482291259
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.022294619307786,0.0,-11.27270594247915
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.130605710327188,0.0,-11.655910587511812
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.2408803053631345,0.0,-12.038693277049987
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.355445403565227,0.0,-12.420148462998924
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.476084851457642,0.0,-12.799411825526107
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.604128865933319,0.0,-13.175691324425031
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.740531339729387,0.0,-13.548285951325425
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -5.885935480584408,0.0,-13.916595998017016
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -6.0407348497059274,0.0,-14.28012319333115
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -6.205123438611508,0.0,-14.63846715133542
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -6.379136133825568,0.0,-14.991320097859528
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -6.562678036564876,0.0,-15.338463897606943
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -6.7555610279479765,0.0,-15.679754550518226
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -6.957521219590717,0.0,-16.015118931944187
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -7.16824204452962,0.0,-16.34454237235022
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -7.387366036888693,0.0,-16.66806434289768
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -7.614512576823074,0.0,-16.985765195911625
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -7.849285352405161,0.0,-17.297761834619678
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -8.091281155896297,0.0,-17.60420038492461
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -8.340094877901208,0.0,-17.905252040064994
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -8.595328470592051,0.0,-18.20110297664067
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -8.856589064360037,0.0,-18.491956907529357
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -9.123496593477853,0.0,-18.778025156834275
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -9.395685637504585,0.0,-19.059523495949065
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -9.672804619858198,0.0,-19.336672235270527
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -9.95451728817784,0.0,-19.60969314210584
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -10.240503908813594,0.0,-19.878806553167863
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -10.53046221893311,0.0,-20.144228686413953
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -10.82410819773554,0.0,-20.40616913788199
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -11.121172264118854,0.0,-20.66483485380283
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -11.421402448344338,0.0,-20.920424269341282
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -11.724562776186076,0.0,-21.173128260285694
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -12.030820563609439,0.0,-21.422551340672896
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -12.340636875573978,0.0,-21.667803068493413
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -12.654648481767197,0.0,-21.90757123974217
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -12.9735534360305,0.0,-22.140176512685656
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -13.297747867691214,0.0,-22.364274185613226
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -13.627400463997674,0.0,-22.578818453880615
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -13.962510347545333,0.0,-22.783030659413583
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -14.30295479991861,0.0,-22.97636218248462
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -14.648525205696501,0.0,-23.15846483013914
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -14.99895555383182,0.0,-23.329161675399774
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -15.353945186890542,0.0,-23.488415161751107
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -15.713174927953219,0.0,-23.63630461468634
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -16.076319359651393,0.0,-23.773005095922827
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -16.443055919522806,0.0,-23.89876771747697
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -16.81307119338345,0.0,-24.013905289666013
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -17.186065394719776,0.0,-24.1187790926663
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -17.561755461093867,0.0,-24.213779081100427
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -17.9398764849023,0.0,-24.299325087839435
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -18.320182658332328,0.0,-24.37584863838984
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -18.702447348962153,0.0,-24.443788023044704
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -19.08646291448133,0.0,-24.50358765352499
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -19.472039857936238,0.0,-24.55568595787949
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -19.859006097253655,0.0,-24.600515971110582
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -20.247205965084902,0.0,-24.638502024507886
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -20.63649910004949,0.0,-24.670056764302387
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -21.026759273766004,0.0,-24.695578468222465
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -21.41787345811406,0.0,-24.715452458130017
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -21.80974032639415,0.0,-24.73004472546762
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -22.202269362581887,0.0,-24.73970384614006
+[20:03:42] [Server thread/WARN]: Boat (vehicle of ruvane3) moved too quickly! -18.27457536737421,0.0,-15.75344016737759
+[20:03:44] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/19009, l='world', x=-155.41, y=10.04, z=-119.25]
+[20:05:02] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[20:05:02] [Server thread/INFO]: adamcorn left the game
+[20:05:03] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[20:05:03] [Server thread/INFO]: Enigma_Sage left the game
+[20:05:03] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[20:05:03] [Server thread/INFO]: ruvane3 left the game
+[20:05:09] [User Authenticator #19/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[20:05:09] [Server thread/INFO]: adamcorn[/71.231.143.243:64623] logged in with entity id 19535 at (5.300000011920929, 60.0, -119.30000001192093)
+[20:05:09] [Server thread/INFO]: adamcorn joined the game
+[20:05:10] [User Authenticator #20/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:05:10] [Server thread/INFO]: ruvane3[/73.203.118.151:50756] logged in with entity id 19536 at (194.66195234993154, 72.0, 24.020141707779203)
+[20:05:10] [Server thread/INFO]: ruvane3 joined the game
+[20:05:21] [User Authenticator #21/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:05:21] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:56858] logged in with entity id 19623 at (-155.69999998807907, 11.0, -139.5430339643866)
+[20:05:21] [Server thread/INFO]: Enigma_Sage joined the game
+[20:10:28] [Server thread/INFO]: rmeredith has made the advancement [Isn't It Iron Pick]
+[20:15:35] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[20:15:35] [Server thread/INFO]: adamcorn left the game
+[20:15:38] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[20:15:38] [Server thread/INFO]: rmeredith left the game
+[20:15:44] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[20:15:44] [Server thread/INFO]: Enigma_Sage left the game
+[20:16:00] [User Authenticator #22/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[20:16:00] [Server thread/INFO]: adamcorn[/71.231.143.243:64640] logged in with entity id 21406 at (12.917327921202828, 68.0, -115.14224676817334)
+[20:16:00] [Server thread/INFO]: adamcorn joined the game
+[20:16:12] [User Authenticator #23/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:16:12] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:56908] logged in with entity id 21453 at (-183.81380089606438, 11.0, -53.275423145730656)
+[20:16:12] [Server thread/INFO]: Enigma_Sage joined the game
+[20:16:14] [User Authenticator #24/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[20:16:14] [Server thread/INFO]: rmeredith[/67.242.119.193:53634] logged in with entity id 21507 at (-185.2302283523054, 11.0, -177.80546206505426)
+[20:16:14] [Server thread/INFO]: rmeredith joined the game
+[20:17:34] [Server thread/WARN]: adamcorn moved wrongly!
+[20:23:49] [Server thread/WARN]: ruvane3 moved too quickly! 0.0,10.445000190436836,0.0
+[20:26:52] [Server thread/WARN]: adamcorn moved wrongly!
+[20:27:02] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[20:27:02] [Server thread/INFO]: ruvane3 left the game
+[20:27:04] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[20:27:04] [Server thread/INFO]: rmeredith left the game
+[20:27:30] [User Authenticator #25/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[20:27:30] [Server thread/INFO]: rmeredith[/67.242.119.193:53663] logged in with entity id 24176 at (-192.30000001192093, 9.0, -84.64363237266328)
+[20:27:30] [Server thread/INFO]: rmeredith joined the game
+[20:27:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@28c198db[id=<null>,name=ruvane3,properties={},legacy=false] (/73.203.118.151:50976) lost connection: Disconnected
+[20:27:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d0c4c8a[id=<null>,name=ruvane3,properties={},legacy=false] (/73.203.118.151:50978) lost connection: Disconnected
+[20:27:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@3edd2e14[id=<null>,name=ruvane3,properties={},legacy=false] (/73.203.118.151:50979) lost connection: Disconnected
+[20:27:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@239d695d[id=<null>,name=ruvane3,properties={},legacy=false] (/73.203.118.151:50981) lost connection: Disconnected
+[20:27:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@fb10ac8[id=<null>,name=ruvane3,properties={},legacy=false] (/73.203.118.151:50982) lost connection: Disconnected
+[20:27:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ed62fc6[id=<null>,name=ruvane3,properties={},legacy=false] (/73.203.118.151:50983) lost connection: Disconnected
+[20:28:30] [User Authenticator #26/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:28:30] [Server thread/INFO]: ruvane3[/73.203.118.151:51076] logged in with entity id 24424 at (-16.30000001192093, 45.0, -56.69999998807907)
+[20:28:30] [Server thread/INFO]: ruvane3 joined the game
+[20:29:59] [Server thread/INFO]: Enigma_Sage lost connection: Timed out
+[20:29:59] [Server thread/INFO]: Enigma_Sage left the game
+[20:30:07] [User Authenticator #27/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:30:07] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:57321] logged in with entity id 24753 at (-52.75500266589577, 84.17675927506424, -43.94534484531282)
+[20:30:07] [Server thread/INFO]: Enigma_Sage joined the game
+[20:30:39] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Planks'/24878, l='world', x=14.98, y=65.00, z=-101.83]
+[20:35:35] [Server thread/INFO]: ruvane3 fell from a high place
+[20:35:40] [Server thread/WARN]: ruvane3 moved wrongly!
+[20:35:44] [Server thread/INFO]: ruvane3 fell from a high place
+[20:37:00] [Server thread/WARN]: ruvane3 moved too quickly! 0.05696612306247317,-10.722248667987493,0.0
+[20:37:02] [Server thread/WARN]: ruvane3 moved too quickly! 0.0,-12.153971523372608,-0.08694246412458284
+[20:37:04] [Server thread/INFO]: ruvane3 fell from a high place
+[20:37:34] [Server thread/INFO]: rmeredith has made the advancement [Diamonds!]
+[20:38:32] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[20:38:32] [Server thread/INFO]: Enigma_Sage left the game
+[20:38:40] [User Authenticator #28/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:38:40] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:57377] logged in with entity id 27005 at (10.782243547221448, 62.0, -61.100758703029996)
+[20:38:40] [Server thread/INFO]: Enigma_Sage joined the game
+[20:38:46] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[20:38:46] [Server thread/INFO]: ruvane3 left the game
+[20:38:46] [Server thread/INFO]: rmeredith lost connection: Timed out
+[20:38:46] [Server thread/INFO]: rmeredith left the game
+[20:38:48] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[20:38:48] [Server thread/INFO]: Enigma_Sage left the game
+[20:39:16] [User Authenticator #29/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:39:16] [Server thread/INFO]: ruvane3[/73.203.118.151:51143] logged in with entity id 27057 at (-14.180355428407111, 11.0, -56.90391491735481)
+[20:39:16] [Server thread/INFO]: ruvane3 joined the game
+[20:39:19] [User Authenticator #30/INFO]: UUID of player rmeredith is cdf6a914-4200-4773-8a53-94d0f1b6a10e
+[20:39:19] [Server thread/INFO]: rmeredith[/67.242.119.193:53690] logged in with entity id 27059 at (-192.98022472171002, 11.0, -156.60572274575847)
+[20:39:19] [Server thread/INFO]: rmeredith joined the game
+[20:39:19] [User Authenticator #31/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:39:19] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:57383] logged in with entity id 27091 at (13.72525515695371, 63.0, -55.57192288445757)
+[20:39:19] [Server thread/INFO]: Enigma_Sage joined the game
+[20:41:50] [Server thread/WARN]: ruvane3 moved too quickly! 0.0,-10.612022956862141,0.0
+[20:46:33] [Server thread/WARN]: rmeredith moved wrongly!
+[20:49:58] [Server thread/INFO]: rmeredith lost connection: Disconnected
+[20:49:58] [Server thread/INFO]: rmeredith left the game
+[20:50:01] [Server thread/INFO]: <Enigma_Sage> sleepy tim
+[20:50:11] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[20:50:11] [Server thread/INFO]: ruvane3 left the game
+[20:50:23] [User Authenticator #32/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:50:23] [Server thread/INFO]: ruvane3[/73.203.118.151:51224] logged in with entity id 28977 at (-11.699999988079071, 12.0, -20.69999998807907)
+[20:50:23] [Server thread/INFO]: ruvane3 joined the game
+[20:50:42] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[20:50:42] [Server thread/INFO]: ruvane3 left the game
+[20:50:47] [User Authenticator #33/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:50:47] [Server thread/INFO]: ruvane3[/73.203.118.151:51231] logged in with entity id 29027 at (-11.300000011920929, 14.0, -19.016126461889925)
+[20:50:47] [Server thread/INFO]: ruvane3 joined the game
+[20:50:56] [Server thread/WARN]: Enigma_Sage moved too quickly! 0.0,-12.032610980258173,0.0
+[20:51:15] [Server thread/WARN]: adamcorn moved wrongly!
+[20:54:56] [Server thread/WARN]: adamcorn moved too quickly! 0.0,10.530000144064406,0.012733722558522231
+[20:58:54] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[20:58:54] [Server thread/INFO]: Enigma_Sage left the game
+[21:00:09] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[21:00:09] [Server thread/INFO]: ruvane3 left the game
+[21:00:41] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[21:00:41] [Server thread/INFO]: adamcorn left the game
+[21:01:02] [Server thread/INFO]: Stopping server
+[21:01:02] [Server thread/INFO]: Saving players
+[21:01:02] [Server thread/INFO]: Saving worlds
+[21:01:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:01:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:01:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:01:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:01:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:01:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:01:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:01:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:01:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

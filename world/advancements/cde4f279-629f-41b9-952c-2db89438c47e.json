@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-26 19:41:54 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-17 21:16:58 -0600"
@@ -370,6 +376,7 @@
       "cooked_porkchop": "2020-03-19 22:02:23 -0600",
       "cooked_mutton": "2020-03-17 22:24:05 -0600",
       "cooked_beef": "2020-03-19 22:39:12 -0600",
+      "cooked_cod": "2020-03-26 20:02:16 -0600",
       "cooked_salmon": "2020-03-17 22:04:29 -0600"
     },
     "done": false
@@ -398,9 +405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-03-26 19:10:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 22:04:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-03-26 19:34:57 -0600"
     },
     "done": true
   },
@@ -915,6 +934,7 @@
       "minecraft:zombie_pigman": "2020-03-21 18:47:33 -0600",
       "minecraft:spider": "2020-03-20 21:05:04 -0600",
       "minecraft:creeper": "2020-03-21 18:50:56 -0600",
+      "minecraft:husk": "2020-03-26 19:55:54 -0600",
       "minecraft:zombie": "2020-03-25 22:09:30 -0600"
     },
     "done": false
@@ -1081,6 +1101,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-03-26 19:10:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-03-26 19:15:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-17 21:36:16 -0600"
@@ -1126,6 +1158,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-03-19 23:14:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-03-26 18:57:15 -0600"
     },
     "done": true
   },
@@ -1402,6 +1440,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 22:04:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-03-26 18:55:39 -0600"
     },
     "done": true
   },
@@ -1785,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2020-03-26 19:10:27 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-03-19 21:14:27 -0600"
@@ -1818,6 +1868,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-03-19 23:14:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-03-26 19:10:28 -0600"
     },
     "done": true
   },
