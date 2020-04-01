@@ -92,3 +92,16 @@ java.io.IOException: The handle is invalid
 [22:31:34] [Server thread/INFO]: adamcorn left the game
 [23:33:48] [Server thread/INFO]: ruvane3 lost connection: Disconnected
 [23:33:48] [Server thread/INFO]: ruvane3 left the game
+[23:39:56] [Server thread/INFO]: Stopping the server
+[23:39:56] [Server thread/INFO]: Stopping server
+[23:39:56] [Server thread/INFO]: Saving players
+[23:39:56] [Server thread/INFO]: Saving worlds
+[23:39:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:39:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:39:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:39:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:39:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:39:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:39:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:39:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:39:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
