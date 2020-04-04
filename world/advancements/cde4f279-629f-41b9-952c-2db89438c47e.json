@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-04-03 19:52:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 22:04:03 -0600"
@@ -416,6 +422,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-28 18:56:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-04-03 19:52:53 -0600"
     },
     "done": true
   },
@@ -959,6 +971,8 @@
       "minecraft:forest": "2020-03-17 21:16:20 -0600",
       "minecraft:desert_hills": "2020-03-17 22:06:21 -0600",
       "minecraft:desert": "2020-03-17 21:37:56 -0600",
+      "minecraft:savanna_plateau": "2020-04-03 19:49:55 -0600",
+      "minecraft:beach": "2020-04-03 19:45:23 -0600",
       "minecraft:dark_forest": "2020-03-17 21:16:41 -0600",
       "minecraft:river": "2020-03-17 21:37:47 -0600",
       "minecraft:wooded_hills": "2020-03-17 21:38:05 -0600",
@@ -1178,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-04-03 20:58:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-17 21:24:03 -0600"
@@ -1235,6 +1255,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-19 23:18:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-04-03 20:58:37 -0600"
     },
     "done": true
   },
@@ -1401,6 +1427,7 @@
       "cooked_beef": "2020-03-19 22:39:12 -0600",
       "cooked_cod": "2020-03-26 20:02:16 -0600",
       "bread": "2020-03-29 16:30:33 -0600",
+      "cooked_rabbit": "2020-04-03 20:58:39 -0600",
       "cooked_chicken": "2020-03-28 17:41:06 -0600",
       "cooked_salmon": "2020-03-17 22:04:29 -0600"
     },
@@ -2114,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-04-03 19:52:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-03-19 22:03:38 -0600"
@@ -2195,6 +2228,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-03-28 18:12:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-04-03 19:46:23 -0600"
     },
     "done": true
   },
