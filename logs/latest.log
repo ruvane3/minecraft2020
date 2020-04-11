@@ -1,13 +1,13 @@
-[18:58:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:58:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:58:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:58:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:58:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:58:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[18:58:26] [Server thread/INFO]: Loading properties
-[18:58:26] [Server thread/INFO]: Default game type: SURVIVAL
-[18:58:26] [Server thread/INFO]: Generating keypair
-[18:58:26] [Server console handler/ERROR]: Exception handling console input
+[10:42:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:42:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:42:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:42:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:42:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:42:25] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:42:25] [Server thread/INFO]: Loading properties
+[10:42:25] [Server thread/INFO]: Default game type: SURVIVAL
+[10:42:25] [Server thread/INFO]: Generating keypair
+[10:42:25] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
@@ -21,94 +21,37 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
 	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
-[18:58:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:58:26] [Server thread/INFO]: Using default channel type
-[18:58:27] [Server thread/INFO]: Preparing level "world"
-[18:58:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:58:28] [Server thread/INFO]: Loaded 6 recipes
-[18:58:28] [Server thread/INFO]: Loaded 825 advancements
-[18:58:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:58:30] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:30] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:30] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[18:58:31] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[18:58:31] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[18:58:31] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[18:58:31] [Server thread/INFO]: Preparing spawn area: 81%
-[18:58:32] [Server thread/INFO]: Time elapsed: 3114 ms
-[18:58:32] [Server thread/INFO]: Done (4.657s)! For help, type "help"
-[18:58:32] [Server thread/INFO]: ruvane3[/73.203.118.151:50459] logged in with entity id 203 at (6.476971906513295, 77.5, -109.82865323073057)
-[18:58:32] [Server thread/INFO]: ruvane3 joined the game
-[19:11:42] [User Authenticator #2/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[19:11:43] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:64581] logged in with entity id 1530 at (-1.3087929857406848, 68.5625, -64.30000001192093)
-[19:11:43] [Server thread/INFO]: Enigma_Sage joined the game
-[19:46:56] [User Authenticator #3/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[19:46:56] [Server thread/INFO]: adamcorn[/71.231.143.243:50352] logged in with entity id 9462 at (2.4024407324872437, 63.0, -95.64801009371038)
-[19:46:56] [Server thread/INFO]: adamcorn joined the game
-[19:55:23] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[19:55:23] [Server thread/INFO]: Enigma_Sage left the game
-[19:55:24] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[19:55:24] [Server thread/INFO]: adamcorn left the game
-[19:55:52] [User Authenticator #4/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[19:55:52] [Server thread/INFO]: adamcorn[/71.231.143.243:50389] logged in with entity id 11116 at (14.699999988079071, 11.0, -88.50952198068978)
-[19:55:52] [Server thread/INFO]: adamcorn joined the game
-[19:55:55] [User Authenticator #5/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[19:55:55] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:64980] logged in with entity id 11131 at (-8.697378919127678, 29.875, 0.41420343543076754)
-[19:55:55] [Server thread/INFO]: Enigma_Sage joined the game
-[20:05:52] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[20:05:52] [Server thread/INFO]: adamcorn left the game
-[20:17:37] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[20:17:37] [Server thread/INFO]: Enigma_Sage left the game
-[20:18:15] [User Authenticator #6/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[20:18:15] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:65178] logged in with entity id 15777 at (-205.5759898249755, 11.0, -145.8713251925538)
-[20:18:15] [Server thread/INFO]: Enigma_Sage joined the game
-[20:23:57] [Server thread/WARN]: ruvane3 moved wrongly!
-[20:24:45] [Server thread/WARN]: ruvane3 moved wrongly!
-[20:25:51] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[20:25:51] [Server thread/INFO]: Enigma_Sage left the game
-[20:25:55] [User Authenticator #7/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[20:25:55] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:65398] logged in with entity id 19107 at (-13.578935229405548, 69.0, -65.843324899486)
-[20:25:55] [Server thread/INFO]: Enigma_Sage joined the game
-[20:27:54] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[20:27:54] [Server thread/INFO]: Enigma_Sage left the game
-[20:51:31] [User Authenticator #8/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[20:51:31] [Server thread/INFO]: adamcorn[/71.231.143.243:50517] logged in with entity id 24381 at (38.04630157727973, 16.0, -55.47956423908171)
-[20:51:31] [Server thread/INFO]: adamcorn joined the game
-[20:53:25] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[20:53:25] [Server thread/INFO]: adamcorn left the game
-[20:53:41] [User Authenticator #9/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[20:53:41] [Server thread/INFO]: adamcorn[/71.231.143.243:50532] logged in with entity id 24734 at (29.405077480786193, 19.0, -37.35318538425615)
-[20:53:41] [Server thread/INFO]: adamcorn joined the game
-[21:05:05] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[21:05:05] [Server thread/INFO]: adamcorn left the game
-[21:05:11] [User Authenticator #10/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[21:05:11] [Server thread/INFO]: adamcorn[/71.231.143.243:50849] logged in with entity id 29753 at (20.118028597824047, 22.0, -12.686258893267048)
-[21:05:11] [Server thread/INFO]: adamcorn joined the game
-[21:15:48] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[21:15:48] [Server thread/INFO]: adamcorn left the game
-[21:15:56] [User Authenticator #11/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[21:15:56] [Server thread/INFO]: adamcorn[/71.231.143.243:50881] logged in with entity id 35682 at (28.81126277310679, 11.0, 1.0835421280334585)
-[21:15:56] [Server thread/INFO]: adamcorn joined the game
-[21:22:20] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[21:22:20] [Server thread/INFO]: ruvane3 left the game
-[21:27:00] [User Authenticator #12/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[21:27:00] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:50048] logged in with entity id 37280 at (-15.088416364221803, 69.0, -66.10041367299762)
-[21:27:00] [Server thread/INFO]: Enigma_Sage joined the game
-[21:30:19] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[21:30:19] [Server thread/INFO]: Enigma_Sage left the game
-[21:31:06] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[21:31:06] [Server thread/INFO]: adamcorn left the game
-[21:32:22] [Server thread/INFO]: Stopping the server
-[21:32:23] [Server thread/INFO]: Stopping server
-[21:32:23] [Server thread/INFO]: Saving players
-[21:32:23] [Server thread/INFO]: Saving worlds
-[21:32:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:32:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:32:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:42:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:42:25] [Server thread/INFO]: Using default channel type
+[10:42:26] [Server thread/INFO]: Preparing level "world"
+[10:42:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:42:27] [Server thread/INFO]: Loaded 6 recipes
+[10:42:27] [Server thread/INFO]: Loaded 825 advancements
+[10:42:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:42:29] [Server thread/INFO]: Preparing spawn area: 0%
+[10:42:29] [Server thread/INFO]: Preparing spawn area: 0%
+[10:42:29] [Server thread/INFO]: Preparing spawn area: 0%
+[10:42:30] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[10:42:30] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[10:42:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:42:31] [Server thread/INFO]: Preparing spawn area: 7%
+[10:42:31] [Server thread/INFO]: Time elapsed: 3558 ms
+[10:42:31] [Server thread/INFO]: Done (5.377s)! For help, type "help"
+[10:42:32] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[10:42:32] [Server thread/INFO]: ruvane3[/73.203.118.151:51529] logged in with entity id 164 at (60.78341364315318, 72.0, -143.99294294873667)
+[10:42:32] [Server thread/INFO]: ruvane3 joined the game
+[11:18:58] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[11:18:58] [Server thread/INFO]: ruvane3 left the game
+[11:19:06] [Server thread/INFO]: Stopping the server
+[11:19:06] [Server thread/INFO]: Stopping server
+[11:19:06] [Server thread/INFO]: Saving players
+[11:19:06] [Server thread/INFO]: Saving worlds
+[11:19:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:19:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:19:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:19:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:19:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:19:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:19:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:19:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:19:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

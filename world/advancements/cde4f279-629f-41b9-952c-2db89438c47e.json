@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-04-11 10:22:52 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-17 21:16:58 -0600"
@@ -520,8 +526,11 @@
       "minecraft:pillager": "2020-03-19 22:38:02 -0600",
       "minecraft:skeleton": "2020-03-19 21:12:15 -0600",
       "minecraft:zombie_pigman": "2020-03-21 18:47:33 -0600",
+      "minecraft:vindicator": "2020-04-11 10:18:13 -0600",
       "minecraft:spider": "2020-03-20 21:05:04 -0600",
       "minecraft:creeper": "2020-03-21 18:50:56 -0600",
+      "minecraft:evoker": "2020-04-11 10:19:02 -0600",
+      "minecraft:witch": "2020-04-11 10:18:48 -0600",
       "minecraft:husk": "2020-03-26 19:55:54 -0600",
       "minecraft:cave_spider": "2020-03-29 16:03:18 -0600",
       "minecraft:zombie": "2020-03-25 22:09:30 -0600"

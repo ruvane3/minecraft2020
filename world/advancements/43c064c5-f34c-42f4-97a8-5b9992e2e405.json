@@ -586,10 +586,13 @@
     "criteria": {
       "minecraft:pillager": "2020-03-19 22:37:53 -0600",
       "minecraft:skeleton": "2020-03-17 21:43:03 -0600",
+      "minecraft:vindicator": "2020-04-11 09:42:33 -0600",
       "minecraft:spider": "2020-03-25 22:56:07 -0600",
       "minecraft:creeper": "2020-03-25 22:55:37 -0600",
+      "minecraft:witch": "2020-04-11 09:55:04 -0600",
       "minecraft:husk": "2020-03-24 20:20:14 -0600",
       "minecraft:cave_spider": "2020-03-25 23:42:20 -0600",
+      "minecraft:enderman": "2020-04-11 10:32:39 -0600",
       "minecraft:zombie": "2020-03-21 17:20:27 -0600",
       "minecraft:drowned": "2020-03-21 17:41:42 -0600",
       "minecraft:zombie_villager": "2020-03-25 22:51:50 -0600"
@@ -689,6 +692,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-17 21:18:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-11 09:16:25 -0600"
     },
     "done": true
   },
@@ -1078,17 +1087,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-04-11 10:47:11 -0600",
       "minecraft:forest": "2020-03-17 20:34:12 -0600",
       "minecraft:mountains": "2020-04-03 21:24:16 -0600",
       "minecraft:taiga": "2020-04-03 21:21:40 -0600",
       "minecraft:desert_hills": "2020-03-19 22:49:26 -0600",
       "minecraft:taiga_hills": "2020-04-03 21:22:55 -0600",
       "minecraft:desert": "2020-03-17 21:28:49 -0600",
+      "minecraft:jungle": "2020-04-11 10:47:19 -0600",
       "minecraft:birch_forest": "2020-04-04 12:49:45 -0600",
       "minecraft:savanna_plateau": "2020-04-04 12:49:15 -0600",
       "minecraft:beach": "2020-03-19 22:58:45 -0600",
       "minecraft:dark_forest": "2020-03-17 21:01:54 -0600",
       "minecraft:river": "2020-03-17 21:28:46 -0600",
+      "minecraft:birch_forest_hills": "2020-04-11 10:46:32 -0600",
       "minecraft:wooded_hills": "2020-03-17 21:30:10 -0600",
       "minecraft:swamp": "2020-03-19 22:45:58 -0600",
       "minecraft:savanna": "2020-03-19 22:44:14 -0600",
@@ -1597,6 +1609,7 @@
       "potato": "2020-03-26 20:22:34 -0600",
       "cooked_cod": "2020-03-28 19:26:21 -0600",
       "bread": "2020-03-19 21:34:27 -0600",
+      "golden_apple": "2020-04-11 10:03:16 -0600",
       "cooked_chicken": "2020-03-17 21:40:28 -0600",
       "cooked_salmon": "2020-04-07 22:29:07 -0600",
       "carrot": "2020-03-28 21:34:43 -0600"
