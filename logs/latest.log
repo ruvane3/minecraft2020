@@ -1,60 +1,91 @@
-[16:43:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:53] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[16:43:53] [Server thread/INFO]: Loading properties
-[16:43:53] [Server thread/INFO]: Default game type: SURVIVAL
-[16:43:54] [Server thread/INFO]: Generating keypair
-[16:43:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:43:55] [Server thread/INFO]: Using default channel type
-[16:44:11] [Server thread/INFO]: Preparing level "world"
-[16:44:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:44:18] [Server thread/INFO]: Loaded 6 recipes
-[16:44:23] [Server thread/INFO]: Loaded 825 advancements
-[16:44:30] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[16:46:14] [User Authenticator #2/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[16:46:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:45] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:46] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[16:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[16:46:47] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:48] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:48] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:48] [Server thread/INFO]: Preparing spawn area: 0%
-[16:46:49] [Server thread/INFO]: Preparing spawn area: 44%
-[16:46:49] [Server thread/INFO]: Preparing spawn area: 44%
-[16:46:55] [Server thread/INFO]: Time elapsed: 19948 ms
-[16:46:55] [Server thread/INFO]: Done (164.748s)! For help, type "help"
-[16:46:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@208fe024[id=43c064c5-f34c-42f4-97a8-5b9992e2e405,name=ruvane3,properties={textures=[com.mojang.authlib.properties.Property@5f5fdb46]},legacy=false] (/73.203.118.151:63637) lost connection: Disconnected
-[16:46:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@14c36dc7[id=43c064c5-f34c-42f4-97a8-5b9992e2e405,name=ruvane3,properties={textures=[com.mojang.authlib.properties.Property@7761bf26]},legacy=false] (/73.203.118.151:63663) lost connection: Disconnected
-[16:46:59] [Server thread/INFO]: Unknown command
-[16:46:59] [Server thread/INFO]: <--[HERE]
-[16:46:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3371ms or 67 ticks behind
-[16:47:01] [User Authenticator #3/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[16:47:15] [Server thread/INFO]: ruvane3[/73.203.118.151:63674] logged in with entity id 202 at (-44.46179572477731, 66.0, -154.30000001192093)
-[16:47:16] [Server thread/INFO]: ruvane3 joined the game
-[16:48:06] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[16:48:06] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[16:48:07] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\amg295\Documents\Minecraft\minecraft2020\.\crash-reports\crash-2020-04-11_16.48.07-server.txt
+[21:13:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:13:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:22] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:13:22] [Server thread/INFO]: Loading properties
+[21:13:22] [Server thread/INFO]: Default game type: SURVIVAL
+[21:13:22] [Server thread/INFO]: Generating keypair
+[21:13:22] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
+[21:13:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:13:22] [Server thread/INFO]: Using default channel type
+[21:13:24] [Server thread/INFO]: Preparing level "world"
+[21:13:24] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:13:24] [Server thread/INFO]: Loaded 6 recipes
+[21:13:25] [Server thread/INFO]: Loaded 825 advancements
+[21:13:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:13:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:27] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:13:27] [Server thread/INFO]: Time elapsed: 2038 ms
+[21:13:28] [Server thread/INFO]: Done (3.664s)! For help, type "help"
+[21:14:06] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[21:14:06] [Server thread/INFO]: ruvane3[/73.203.118.151:51505] logged in with entity id 205 at (-44.91008258527475, 66.0, -157.97754451874863)
+[21:14:06] [Server thread/INFO]: ruvane3 joined the game
+[21:14:14] [User Authenticator #2/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[21:14:14] [Server thread/INFO]: adamcorn[/71.231.143.243:50027] logged in with entity id 399 at (-9.635592725602347, 69.0, -87.39568886284832)
+[21:14:14] [Server thread/INFO]: adamcorn joined the game
+[21:26:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-107, y=39, z=-116} fk{x=-120, y=38, z=-116}
+[21:26:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-107, y=39, z=-116} fk{x=-120, y=38, z=-116}
+[21:40:28] [Server thread/INFO]: adamcorn has made the advancement [A Terrible Fortress]
+[21:40:33] [Server thread/INFO]: ruvane3 has made the advancement [A Terrible Fortress]
+[21:45:42] [Server thread/INFO]: adamcorn has made the advancement [Into Fire]
+[21:53:32] [Server thread/INFO]: ruvane3 has made the advancement [Into Fire]
+[21:58:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-326, y=74, z=-301} fk{x=-326, y=76, z=-302}
+[22:42:37] [Server thread/INFO]: Villager axw['Villager'/616, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager suffocated in a wall'
+[22:42:37] [Server thread/INFO]: Villager axw['Villager'/7246, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager suffocated in a wall'
+[22:44:40] [Server thread/INFO]: Villager axw['Villager'/11268, l='world', x=-16.50, y=69.00, z=-82.52] died, message: 'Villager was slain by ruvane3'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/182, l='world', x=8.30, y=69.90, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/184, l='world', x=8.70, y=69.19, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/185, l='world', x=8.70, y=69.80, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/186, l='world', x=8.30, y=69.74, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/187, l='world', x=8.70, y=69.90, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/188, l='world', x=8.30, y=69.94, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/189, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/190, l='world', x=8.30, y=69.91, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/191, l='world', x=8.70, y=69.84, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/192, l='world', x=8.70, y=69.98, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/193, l='world', x=8.30, y=69.54, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/194, l='world', x=8.70, y=69.98, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/195, l='world', x=8.70, y=69.70, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/196, l='world', x=8.70, y=69.98, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/197, l='world', x=8.70, y=69.96, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/198, l='world', x=8.30, y=69.82, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/8770, l='world', x=8.70, y=69.82, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/9605, l='world', x=8.70, y=69.74, z=-97.70] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/10460, l='world', x=8.30, y=69.73, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:30] [Server thread/INFO]: Villager axw['Villager'/183, l='world', x=8.70, y=69.94, z=-97.30] died, message: 'Villager tried to swim in lava'
+[22:46:32] [Server thread/INFO]: Villager axw['Villager'/12094, l='world', x=8.50, y=69.02, z=-98.80] died, message: 'Villager tried to swim in lava'
+[22:46:32] [Server thread/INFO]: Villager axw['Villager'/12807, l='world', x=8.85, y=69.02, z=-98.63] died, message: 'Villager tried to swim in lava'
+[22:46:48] [Server thread/INFO]: Villager axw['Villager'/216, l='world', x=-38.89, y=65.90, z=-152.89] died, message: 'Villager was slain by Zombie'
+[23:24:53] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[23:24:53] [Server thread/INFO]: ruvane3 left the game
+[23:26:02] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[23:26:02] [Server thread/INFO]: adamcorn left the game
+[23:26:03] [Server thread/INFO]: Stopping the server
+[23:26:03] [Server thread/INFO]: Stopping server
+[23:26:03] [Server thread/INFO]: Saving players
+[23:26:03] [Server thread/INFO]: Saving worlds
+[23:26:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:26:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:26:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
