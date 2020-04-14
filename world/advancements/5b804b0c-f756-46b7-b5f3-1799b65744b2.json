@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-13 23:37:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-03-20 23:14:56 -0600"
@@ -657,6 +663,7 @@
       "minecraft:creeper": "2020-03-29 13:53:33 -0600",
       "minecraft:husk": "2020-04-03 20:34:05 -0600",
       "minecraft:cave_spider": "2020-03-29 13:39:30 -0600",
+      "minecraft:silverfish": "2020-04-13 23:44:37 -0600",
       "minecraft:zombie": "2020-03-21 17:20:55 -0600",
       "minecraft:drowned": "2020-03-31 20:49:10 -0600"
     },
@@ -797,6 +804,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-03 22:39:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-04-13 23:37:38 -0600"
     },
     "done": true
   },
@@ -1275,6 +1288,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-03-17 21:17:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-13 23:37:38 -0600"
     },
     "done": true
   },
@@ -1834,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-13 23:37:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2020-03-27 21:56:15 -0600"
@@ -2059,6 +2084,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:21:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-13 23:37:38 -0600"
     },
     "done": true
   },
@@ -2383,6 +2414,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2020-03-31 21:04:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-13 23:37:38 -0600"
     },
     "done": true
   },
@@ -2725,6 +2762,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-17 21:17:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-13 23:37:38 -0600"
     },
     "done": true
   },
