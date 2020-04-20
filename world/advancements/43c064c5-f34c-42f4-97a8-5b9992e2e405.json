@@ -462,6 +462,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-19 20:33:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-19 21:34:47 -0600"
@@ -623,6 +629,7 @@
       "minecraft:pillager": "2020-03-19 22:37:53 -0600",
       "minecraft:blaze": "2020-04-13 21:44:47 -0600",
       "minecraft:skeleton": "2020-03-17 21:43:03 -0600",
+      "minecraft:ghast": "2020-04-19 20:33:09 -0600",
       "minecraft:vindicator": "2020-04-11 09:42:33 -0600",
       "minecraft:magma_cube": "2020-04-13 21:21:40 -0600",
       "minecraft:spider": "2020-03-25 22:56:07 -0600",
@@ -776,6 +783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-04-19 21:24:46 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-04-13 23:37:41 -0600"
@@ -830,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-04-19 21:38:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-03-19 21:11:47 -0600"
@@ -863,6 +882,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-03-20 23:41:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-04-19 21:25:07 -0600"
     },
     "done": true
   },
@@ -1327,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2020-04-19 21:21:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-03-26 20:00:14 -0600"
@@ -1360,6 +1391,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2020-03-28 18:50:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-04-19 21:24:46 -0600"
     },
     "done": true
   },
@@ -1687,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-04-19 21:26:39 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-03-19 21:59:20 -0600"
@@ -1736,6 +1779,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-13 23:02:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-04-19 21:24:46 -0600"
     },
     "done": true
   },
@@ -2104,6 +2153,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-17 21:27:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-04-19 21:25:07 -0600"
     },
     "done": true
   },
@@ -2593,6 +2648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-04-19 21:25:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-17 21:23:23 -0600"
@@ -2868,6 +2929,12 @@
       "has_stone": "2020-03-19 21:29:59 -0600"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2020-04-19 21:38:58 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
