@@ -1,70 +1,81 @@
-[00:22:15] [Server thread/INFO]: Villager axw['Villager'/193, l='world', x=-26.60, y=62.00, z=-124.56] died, message: 'Villager was slain by Husk'
-[00:36:03] [Server thread/INFO]: Villager axw['Villager'/201, l='world', x=-93.38, y=68.00, z=-184.30] died, message: 'Villager was slain by Husk'
-[00:40:58] [Server thread/INFO]: Villager axw['Villager'/185, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[00:46:17] [Server thread/INFO]: Villager axw['Villager'/3978, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[01:01:04] [Server thread/INFO]: Villager axw['Villager'/207, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[01:06:16] [Server thread/INFO]: Villager axw['Villager'/209, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[01:08:57] [Server thread/INFO]: Villager axw['Villager'/195, l='world', x=-24.70, y=78.00, z=-75.52] died, message: 'Villager hit the ground too hard'
-[01:21:03] [Server thread/INFO]: Villager axw['Villager'/2468, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[01:26:18] [Server thread/INFO]: Villager axw['Villager'/192, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[01:41:00] [Server thread/INFO]: Villager axw['Villager'/186, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[01:46:16] [Server thread/INFO]: Villager axw['Villager'/6306, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[02:00:59] [Server thread/INFO]: Villager axw['Villager'/187, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[02:01:15] [Server thread/INFO]: Villager axw['Villager'/4628, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[02:20:59] [Server thread/INFO]: Villager axw['Villager'/8499, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[02:21:04] [Server thread/INFO]: Villager axw['Villager'/12362, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[02:26:23] [Server thread/INFO]: Villager axw['Villager'/14899, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[02:46:19] [Server thread/INFO]: Villager axw['Villager'/970, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[02:46:23] [Server thread/INFO]: Villager axw['Villager'/204, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[03:06:24] [Server thread/INFO]: Villager axw['Villager'/16379, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[03:21:01] [Server thread/INFO]: Villager axw['Villager'/199, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[03:26:24] [Server thread/INFO]: Villager axw['Villager'/188, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[03:41:00] [Server thread/INFO]: Villager axw['Villager'/196, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[03:46:15] [Server thread/INFO]: Villager axw['Villager'/16942, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[04:01:01] [Server thread/INFO]: Villager axw['Villager'/200, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[04:06:18] [Server thread/INFO]: Villager axw['Villager'/21226, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[04:21:03] [Server thread/INFO]: Villager axw['Villager'/206, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[04:26:21] [Server thread/INFO]: Villager axw['Villager'/19602, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[04:41:00] [Server thread/INFO]: Villager axw['Villager'/189, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[04:46:22] [Server thread/INFO]: Villager axw['Villager'/22929, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[05:01:03] [Server thread/INFO]: Villager axw['Villager'/24550, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[05:06:22] [Server thread/INFO]: Villager axw['Villager'/6922, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[05:21:00] [Server thread/INFO]: Villager axw['Villager'/20068, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[05:26:21] [Server thread/INFO]: Villager axw['Villager'/184, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[05:40:58] [Server thread/INFO]: Villager axw['Villager'/203, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[05:46:15] [Server thread/INFO]: Villager axw['Villager'/10470, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[06:01:00] [Server thread/INFO]: Villager axw['Villager'/9065, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[06:06:16] [Server thread/INFO]: Villager axw['Villager'/1646, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[06:21:01] [Server thread/INFO]: Villager axw['Villager'/205, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[06:26:15] [Server thread/INFO]: Villager axw['Villager'/26232, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[06:39:42] [Server thread/INFO]: Villager axw['Farmer'/174, l='world', x=3.70, y=73.00, z=-75.30] died, message: 'Farmer was slain by Zombie'
-[06:41:00] [Server thread/INFO]: Villager axw['Villager'/25009, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[06:46:14] [Server thread/INFO]: Villager axw['Villager'/18053, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[07:01:00] [Server thread/INFO]: Villager axw['Villager'/27889, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[07:01:03] [Server thread/INFO]: Villager axw['Villager'/29405, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[07:20:59] [Server thread/INFO]: Villager axw['Villager'/23402, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[07:26:16] [Server thread/INFO]: Villager axw['Villager'/12896, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[07:41:00] [Server thread/INFO]: Villager axw['Villager'/28378, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager was squished too much'
-[07:46:14] [Server thread/INFO]: Villager axw['Villager'/34019, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[07:55:50] [Server thread/INFO]: Villager axw['Villager'/30934, l='world', x=8.15, y=70.00, z=-97.85] died, message: 'Villager was squished too much'
-[08:00:59] [Server thread/INFO]: Villager axw['Villager'/18494, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[08:12:01] [Server thread/INFO]: ruvane3 has made the advancement [Take Aim]
-[08:15:23] [Server thread/INFO]: Villager axw['Villager'/14373, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[08:15:24] [Server thread/INFO]: Villager axw['Villager'/37149, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager was squished too much'
-[08:30:29] [Server thread/INFO]: Villager axw['Villager'/170, l='world', x=6.70, y=72.49, z=-62.30] died, message: 'Villager was slain by Zombie'
-[08:30:44] [Server thread/INFO]: Villager axw['Cartographer'/171, l='world', x=3.30, y=73.00, z=-69.65] died, message: 'Cartographer was slain by Zombie'
-[08:34:08] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[08:34:08] [Server thread/INFO]: ruvane3 left the game
-[08:34:16] [Server thread/INFO]: Stopping the server
-[08:34:16] [Server thread/INFO]: Stopping server
-[08:34:16] [Server thread/INFO]: Saving players
-[08:34:16] [Server thread/INFO]: Saving worlds
-[08:34:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[08:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:34:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[08:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:34:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[08:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:39:59] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:39:59] [Server thread/INFO]: Loading properties
+[10:39:59] [Server thread/INFO]: Default game type: SURVIVAL
+[10:39:59] [Server thread/INFO]: Generating keypair
+[10:39:59] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
+[10:39:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:39:59] [Server thread/INFO]: Using default channel type
+[10:40:00] [Server thread/INFO]: Preparing level "world"
+[10:40:00] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:40:01] [Server thread/INFO]: Loaded 6 recipes
+[10:40:01] [Server thread/INFO]: Loaded 825 advancements
+[10:40:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:40:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:40:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:40:04] [Server thread/INFO]: Time elapsed: 1034 ms
+[10:40:04] [Server thread/INFO]: Done (4.416s)! For help, type "help"
+[10:40:35] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[10:40:35] [Server thread/INFO]: ruvane3[/73.203.118.151:49864] logged in with entity id 225 at (-18.745767308702078, 69.0, -78.7949877212337)
+[10:40:35] [Server thread/INFO]: ruvane3 joined the game
+[10:41:48] [Server thread/INFO]: Villager axw['Villager'/111, l='world', x=-24.70, y=78.00, z=-74.72] died, message: 'Villager hit the ground too hard'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/184, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/185, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/187, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/191, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/193, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/195, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
+[10:53:29] [Server thread/INFO]: Villager axw['Villager'/197, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:53:32] [Server thread/INFO]: Villager axw['Villager'/186, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager burned to death'
+[10:53:32] [Server thread/INFO]: Villager axw['Villager'/194, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager burned to death'
+[10:53:32] [Server thread/INFO]: Villager axw['Villager'/201, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager burned to death'
+[10:53:38] [Server thread/INFO]: Villager axw['Villager'/189, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager burned to death'
+[10:53:38] [Server thread/INFO]: Villager axw['Villager'/200, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager burned to death'
+[10:53:38] [Server thread/INFO]: Villager axw['Villager'/204, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager burned to death'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/188, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/190, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/192, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/202, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/206, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/207, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
+[10:54:21] [Server thread/INFO]: Villager axw['Villager'/208, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
+[11:01:44] [Server thread/INFO]: Villager axw['Villager'/199, l='world', x=-59.17, y=70.00, z=-149.71] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
+[11:01:46] [Server thread/INFO]: Villager axw['Villager'/198, l='world', x=-52.70, y=66.00, z=-152.70] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
+[11:02:32] [Server thread/INFO]: Villager axw['Villager'/415, l='world', x=4.50, y=67.00, z=-156.40] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
+[11:02:47] [Server thread/INFO]: Villager axw['Villager'/1047, l='world', x=9.36, y=70.00, z=-98.92] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
+[11:11:58] [Server thread/INFO]: Villager axw['Villager'/1593, l='world', x=8.50, y=68.00, z=-116.30] died, message: 'Villager suffocated in a wall'
+[11:16:17] [Server thread/INFO]: Villager axw['Villager'/205, l='world', x=-14.50, y=69.00, z=-142.30] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
+[11:28:43] [Server thread/INFO]: Villager axw['Farmer'/196, l='world', x=-20.40, y=69.00, z=-62.53] died, message: 'Farmer was shot by Pillager'
+[11:38:34] [Server thread/INFO]: ruvane3 has completed the challenge [Hero of the Village]
+[12:43:34] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[12:43:34] [Server thread/INFO]: ruvane3 left the game
+[12:43:43] [Server thread/INFO]: Stopping the server
+[12:43:43] [Server thread/INFO]: Stopping server
+[12:43:43] [Server thread/INFO]: Saving players
+[12:43:43] [Server thread/INFO]: Saving worlds
+[12:43:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:43:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:43:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:43:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

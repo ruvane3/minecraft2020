@@ -641,12 +641,14 @@
       "minecraft:pillager": "2020-03-19 22:37:53 -0600",
       "minecraft:blaze": "2020-04-13 21:44:47 -0600",
       "minecraft:skeleton": "2020-03-17 21:43:03 -0600",
+      "minecraft:ravager": "2020-04-25 11:29:24 -0600",
       "minecraft:ghast": "2020-04-19 20:33:09 -0600",
       "minecraft:vindicator": "2020-04-11 09:42:33 -0600",
       "minecraft:magma_cube": "2020-04-13 21:21:40 -0600",
       "minecraft:spider": "2020-03-25 22:56:07 -0600",
       "minecraft:creeper": "2020-03-25 22:55:37 -0600",
       "minecraft:slime": "2020-04-24 22:09:52 -0600",
+      "minecraft:evoker": "2020-04-25 11:36:16 -0600",
       "minecraft:witch": "2020-04-11 09:55:04 -0600",
       "minecraft:husk": "2020-03-24 20:20:14 -0600",
       "minecraft:cave_spider": "2020-03-25 23:42:20 -0600",
@@ -1602,6 +1604,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2020-03-28 19:20:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-04-25 11:38:34 -0600"
     },
     "done": true
   },
