@@ -1,81 +1,166 @@
-[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:39:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:39:59] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[10:39:59] [Server thread/INFO]: Loading properties
-[10:39:59] [Server thread/INFO]: Default game type: SURVIVAL
-[10:39:59] [Server thread/INFO]: Generating keypair
-[10:39:59] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
-[10:39:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:39:59] [Server thread/INFO]: Using default channel type
-[10:40:00] [Server thread/INFO]: Preparing level "world"
-[10:40:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:40:01] [Server thread/INFO]: Loaded 6 recipes
-[10:40:01] [Server thread/INFO]: Loaded 825 advancements
-[10:40:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[10:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[10:40:04] [Server thread/INFO]: Time elapsed: 1034 ms
-[10:40:04] [Server thread/INFO]: Done (4.416s)! For help, type "help"
-[10:40:35] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[10:40:35] [Server thread/INFO]: ruvane3[/73.203.118.151:49864] logged in with entity id 225 at (-18.745767308702078, 69.0, -78.7949877212337)
-[10:40:35] [Server thread/INFO]: ruvane3 joined the game
-[10:41:48] [Server thread/INFO]: Villager axw['Villager'/111, l='world', x=-24.70, y=78.00, z=-74.72] died, message: 'Villager hit the ground too hard'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/184, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/185, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/187, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/191, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/193, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/195, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
-[10:53:29] [Server thread/INFO]: Villager axw['Villager'/197, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:53:32] [Server thread/INFO]: Villager axw['Villager'/186, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager burned to death'
-[10:53:32] [Server thread/INFO]: Villager axw['Villager'/194, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager burned to death'
-[10:53:32] [Server thread/INFO]: Villager axw['Villager'/201, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager burned to death'
-[10:53:38] [Server thread/INFO]: Villager axw['Villager'/189, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager burned to death'
-[10:53:38] [Server thread/INFO]: Villager axw['Villager'/200, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager burned to death'
-[10:53:38] [Server thread/INFO]: Villager axw['Villager'/204, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager burned to death'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/188, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/190, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/192, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/202, l='world', x=8.30, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/206, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/207, l='world', x=8.70, y=70.00, z=-97.70] died, message: 'Villager went up in flames'
-[10:54:21] [Server thread/INFO]: Villager axw['Villager'/208, l='world', x=8.70, y=70.00, z=-97.30] died, message: 'Villager went up in flames'
-[11:01:44] [Server thread/INFO]: Villager axw['Villager'/199, l='world', x=-59.17, y=70.00, z=-149.71] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
-[11:01:46] [Server thread/INFO]: Villager axw['Villager'/198, l='world', x=-52.70, y=66.00, z=-152.70] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
-[11:02:32] [Server thread/INFO]: Villager axw['Villager'/415, l='world', x=4.50, y=67.00, z=-156.40] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
-[11:02:47] [Server thread/INFO]: Villager axw['Villager'/1047, l='world', x=9.36, y=70.00, z=-98.92] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
-[11:11:58] [Server thread/INFO]: Villager axw['Villager'/1593, l='world', x=8.50, y=68.00, z=-116.30] died, message: 'Villager suffocated in a wall'
-[11:16:17] [Server thread/INFO]: Villager axw['Villager'/205, l='world', x=-14.50, y=69.00, z=-142.30] died, message: 'Villager was shot by ruvane3 using [INFINITE]'
-[11:28:43] [Server thread/INFO]: Villager axw['Farmer'/196, l='world', x=-20.40, y=69.00, z=-62.53] died, message: 'Farmer was shot by Pillager'
-[11:38:34] [Server thread/INFO]: ruvane3 has completed the challenge [Hero of the Village]
-[12:43:34] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[12:43:34] [Server thread/INFO]: ruvane3 left the game
-[12:43:43] [Server thread/INFO]: Stopping the server
-[12:43:43] [Server thread/INFO]: Stopping server
-[12:43:43] [Server thread/INFO]: Saving players
-[12:43:43] [Server thread/INFO]: Saving worlds
-[12:43:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[12:43:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:43:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:43:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:00:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:00:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:00:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:00:48] [Server thread/INFO]: Loading properties
+[14:00:48] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:48] [Server thread/INFO]: Generating keypair
+[14:00:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:00:48] [Server thread/INFO]: Using default channel type
+[14:00:50] [Server thread/INFO]: Preparing level "world"
+[14:00:50] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:01:03] [Server thread/INFO]: Loaded 6 recipes
+[14:01:03] [Server thread/INFO]: Loaded 825 advancements
+[14:01:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:01:05] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:05] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:05] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:05] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:06] [Server thread/INFO]: Time elapsed: 2098 ms
+[14:01:06] [Server thread/INFO]: Done (15.814s)! For help, type "help"
+[14:03:48] [User Authenticator #1/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[14:03:53] [Server thread/INFO]: adamcorn[/127.0.0.1:62408] logged in with entity id 207 at (-27.661532071461295, 69.0, -75.72777165609135)
+[14:03:53] [Server thread/INFO]: adamcorn joined the game
+[14:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5350ms or 107 ticks behind
+[14:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22431ms or 448 ticks behind
+[14:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3962ms or 79 ticks behind
+[14:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:07:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18045ms or 360 ticks behind
+[14:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5804ms or 116 ticks behind
+[14:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5859ms or 117 ticks behind
+[14:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[14:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[14:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[14:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4965ms or 99 ticks behind
+[14:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[14:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14:12:37] [Server thread/WARN]: adamcorn moved wrongly!
+[14:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4559ms or 91 ticks behind
+[14:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[14:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
+[14:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[14:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7439ms or 148 ticks behind
+[14:32:29] [Server thread/INFO]: Villager axw['Fisherman'/194, l='world', x=5.50, y=74.06, z=-68.50] died, message: 'Fisherman suffocated in a wall'
+[14:34:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[14:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12783ms or 255 ticks behind
+[14:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[14:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[14:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[14:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4216ms or 84 ticks behind
+[14:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[15:14:48] [Server thread/WARN]: adamcorn moved wrongly!
+[15:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[15:27:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[15:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[15:28:35] [User Authenticator #2/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[15:28:36] [Server thread/INFO]: ruvane3[/73.203.118.151:50859] logged in with entity id 10745 at (-19.95863597104793, 69.0, -67.55523061200024)
+[15:28:37] [Server thread/INFO]: ruvane3 joined the game
+[15:28:41] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[15:28:41] [Server thread/INFO]: ruvane3 left the game
+[15:29:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17788ms or 355 ticks behind
+[15:29:15] [User Authenticator #3/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[15:29:16] [Server thread/INFO]: ruvane3[/73.203.118.151:62502] logged in with entity id 10793 at (-19.95863597104793, 69.0, -67.55523061200024)
+[15:29:16] [Server thread/INFO]: ruvane3 joined the game
+[15:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11827ms or 236 ticks behind
+[15:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[15:30:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[15:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
+[15:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4608ms or 92 ticks behind
+[15:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3589ms or 71 ticks behind
+[15:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
+[15:32:42] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[15:32:42] [Server thread/INFO]: adamcorn left the game
+[15:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15:33:08] [User Authenticator #4/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[15:33:08] [Server thread/INFO]: adamcorn[/127.0.0.1:62744] logged in with entity id 11363 at (2.6835357728341878, 58.0, -105.59633001838792)
+[15:33:08] [Server thread/INFO]: adamcorn joined the game
+[15:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
+[15:33:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=5, y=58, z=-113} fk{x=5, y=57, z=-113}
+[15:33:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=5, y=58, z=-113} fk{x=5, y=57, z=-113}
+[15:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5136ms or 102 ticks behind
+[15:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4329ms or 86 ticks behind
+[15:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
+[15:35:10] [Server thread/WARN]: ruvane3 moved too quickly! -9.790944143802125,-1.5475485219240284,-1.6368748963003554
+[15:35:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11255ms or 225 ticks behind
+[15:35:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21916ms or 438 ticks behind
+[15:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24334ms or 486 ticks behind
+[15:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22132ms or 442 ticks behind
+[15:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11054ms or 221 ticks behind
+[15:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12496ms or 249 ticks behind
+[15:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14531ms or 290 ticks behind
+[15:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12771ms or 255 ticks behind
+[15:39:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11433ms or 228 ticks behind
+[15:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11412ms or 228 ticks behind
+[15:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
+[15:40:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12757ms or 255 ticks behind
+[15:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8995ms or 179 ticks behind
+[15:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12721ms or 254 ticks behind
+[15:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20997ms or 419 ticks behind
+[15:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11940ms or 238 ticks behind
+[15:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13281ms or 265 ticks behind
+[15:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8739ms or 174 ticks behind
+[15:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12232ms or 244 ticks behind
+[15:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12975ms or 259 ticks behind
+[15:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14186ms or 283 ticks behind
+[15:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12146ms or 242 ticks behind
+[15:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8820ms or 176 ticks behind
+[15:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8544ms or 170 ticks behind
+[15:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12192ms or 243 ticks behind
+[15:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12172ms or 243 ticks behind
+[15:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15578ms or 311 ticks behind
+[15:47:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10121ms or 202 ticks behind
+[15:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12687ms or 253 ticks behind
+[15:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16819ms or 336 ticks behind
+[15:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15726ms or 314 ticks behind
+[15:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13536ms or 270 ticks behind
+[15:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19820ms or 396 ticks behind
+[15:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16055ms or 321 ticks behind
+[15:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16088ms or 321 ticks behind
+[15:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21957ms or 439 ticks behind
+[15:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12430ms or 248 ticks behind
+[15:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15395ms or 307 ticks behind
+[15:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14796ms or 295 ticks behind
+[15:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17236ms or 344 ticks behind
+[15:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24170ms or 483 ticks behind
+[15:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18898ms or 377 ticks behind
+[15:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16907ms or 338 ticks behind
+[15:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13401ms or 268 ticks behind
+[15:56:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16341ms or 326 ticks behind
+[15:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13619ms or 272 ticks behind
+[15:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13227ms or 264 ticks behind
+[15:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11197ms or 223 ticks behind
+[15:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+[15:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[15:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12351ms or 247 ticks behind
+[15:59:40] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[15:59:40] [Server thread/INFO]: ruvane3 left the game
+[15:59:42] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[15:59:42] [Server thread/INFO]: adamcorn left the game
+[15:59:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7354ms or 147 ticks behind
+[16:00:14] [Server thread/INFO]: Stopping the server
+[16:00:15] [Server thread/INFO]: Stopping server
+[16:00:15] [Server thread/INFO]: Saving players
+[16:00:15] [Server thread/INFO]: Saving worlds
+[16:00:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:00:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:00:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
