@@ -665,7 +665,8 @@
       "minecraft:cave_spider": "2020-03-29 13:39:30 -0600",
       "minecraft:silverfish": "2020-04-13 23:44:37 -0600",
       "minecraft:zombie": "2020-03-21 17:20:55 -0600",
-      "minecraft:drowned": "2020-03-31 20:49:10 -0600"
+      "minecraft:drowned": "2020-03-31 20:49:10 -0600",
+      "minecraft:zombie_villager": "2020-04-24 21:56:41 -0600"
     },
     "done": false
   },
@@ -2282,6 +2283,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-17 21:24:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-24 21:38:58 -0600"
     },
     "done": true
   },

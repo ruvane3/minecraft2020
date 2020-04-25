@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-04-24 21:56:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-19 22:01:15 -0600"
@@ -634,6 +640,7 @@
       "minecraft:magma_cube": "2020-04-13 21:21:40 -0600",
       "minecraft:spider": "2020-03-25 22:56:07 -0600",
       "minecraft:creeper": "2020-03-25 22:55:37 -0600",
+      "minecraft:slime": "2020-04-24 22:09:52 -0600",
       "minecraft:witch": "2020-04-11 09:55:04 -0600",
       "minecraft:husk": "2020-03-24 20:20:14 -0600",
       "minecraft:cave_spider": "2020-03-25 23:42:20 -0600",
@@ -1185,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-24 22:09:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-03-17 21:19:08 -0600"
@@ -1517,6 +1530,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-03-19 23:30:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-04-24 22:20:17 -0600"
     },
     "done": true
   },
@@ -2312,6 +2331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-24 22:09:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-03-19 22:01:15 -0600"
@@ -2615,6 +2640,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-03-29 17:57:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-24 22:09:58 -0600"
     },
     "done": true
   },
