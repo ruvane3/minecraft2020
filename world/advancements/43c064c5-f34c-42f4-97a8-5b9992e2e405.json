@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2020-04-25 08:07:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 21:49:25 -0600"
@@ -1783,6 +1789,7 @@
       "cooked_cod": "2020-03-28 19:26:21 -0600",
       "bread": "2020-03-19 21:34:27 -0600",
       "golden_apple": "2020-04-11 10:03:16 -0600",
+      "golden_carrot": "2020-04-25 08:15:26 -0600",
       "cooked_chicken": "2020-03-17 21:40:28 -0600",
       "cooked_salmon": "2020-04-07 22:29:07 -0600",
       "carrot": "2020-03-28 21:34:43 -0600"
@@ -2343,6 +2350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_the_recipe": "2020-04-25 08:08:11 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-19 22:01:15 -0600"
@@ -2838,6 +2851,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-03-17 21:18:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-25 08:12:01 -0600"
     },
     "done": true
   },
