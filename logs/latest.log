@@ -1,158 +1,143 @@
-[17:04:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:04:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:04:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:04:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:04:19] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:04:19] [Server thread/INFO]: Loading properties
-[17:04:19] [Server thread/INFO]: Default game type: SURVIVAL
-[17:04:19] [Server thread/INFO]: Generating keypair
-[17:04:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:04:19] [Server thread/INFO]: Using default channel type
-[17:04:20] [Server thread/INFO]: Preparing level "world"
-[17:04:21] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:04:21] [Server thread/INFO]: Loaded 6 recipes
-[17:04:22] [Server thread/INFO]: Loaded 825 advancements
-[17:04:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:04:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:04:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:04:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:04:38] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:04:39] [Server thread/INFO]: Preparing spawn area: 62%
-[17:04:39] [Server thread/INFO]: Time elapsed: 2285 ms
-[17:04:39] [Server thread/INFO]: Done (18.488s)! For help, type "help"
-[17:08:28] [User Authenticator #1/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[17:08:32] [Server thread/INFO]: adamcorn[/127.0.0.1:57170] logged in with entity id 195 at (8.373639540293077, 59.0, -116.2798083482901)
-[17:08:33] [Server thread/INFO]: adamcorn joined the game
-[17:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5181ms or 103 ticks behind
-[17:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26791ms or 535 ticks behind
-[17:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9285ms or 185 ticks behind
-[17:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6230ms or 124 ticks behind
-[17:10:01] [Server thread/INFO]: Villager axw['Fisherman'/156, l='world', x=-12.78, y=68.50, z=-66.48] died, message: 'Fisherman was slain by Zombie'
-[17:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
-[17:10:38] [Server thread/WARN]: adamcorn moved too quickly! -0.5179733872211016,0.0,-10.069530602226777
-[17:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11887ms or 237 ticks behind
-[17:11:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10673ms or 213 ticks behind
-[17:11:18] [User Authenticator #2/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[17:11:19] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:60317] logged in with entity id 581 at (-7.267951828039161, 68.0, -65.8384088914693)
-[17:11:19] [Server thread/INFO]: Enigma_Sage joined the game
-[17:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12449ms or 248 ticks behind
-[17:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25058ms or 501 ticks behind
-[17:12:32] [Server thread/INFO]: <Enigma_Sage> you wanna hop on disco?
-[17:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20595ms or 411 ticks behind
-[17:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8664ms or 173 ticks behind
-[17:13:38] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[17:13:38] [Server thread/INFO]: Enigma_Sage left the game
-[17:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9066ms or 181 ticks behind
-[17:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
-[17:14:01] [User Authenticator #3/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[17:14:02] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:60407] logged in with entity id 840 at (-40.29062986625578, 66.0, -146.80424658655815)
-[17:14:02] [Server thread/INFO]: Enigma_Sage joined the game
-[17:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14262ms or 285 ticks behind
-[17:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8403ms or 168 ticks behind
-[17:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8419ms or 168 ticks behind
-[17:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
-[17:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7374ms or 147 ticks behind
-[17:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10109ms or 202 ticks behind
-[17:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11905ms or 238 ticks behind
-[17:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12043ms or 240 ticks behind
-[17:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27429ms or 548 ticks behind
-[17:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26614ms or 532 ticks behind
-[17:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17725ms or 354 ticks behind
-[17:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12909ms or 258 ticks behind
-[17:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19322ms or 386 ticks behind
-[17:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12850ms or 257 ticks behind
-[17:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14771ms or 295 ticks behind
-[17:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11580ms or 231 ticks behind
-[17:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11966ms or 239 ticks behind
-[17:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9899ms or 197 ticks behind
-[17:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14034ms or 280 ticks behind
-[17:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20912ms or 418 ticks behind
-[17:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15335ms or 306 ticks behind
-[17:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16550ms or 331 ticks behind
-[17:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18554ms or 371 ticks behind
-[17:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17457ms or 349 ticks behind
-[17:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15184ms or 303 ticks behind
-[17:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13142ms or 262 ticks behind
-[17:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11245ms or 224 ticks behind
-[17:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15767ms or 315 ticks behind
-[17:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17344ms or 346 ticks behind
-[17:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22182ms or 443 ticks behind
-[17:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40197ms or 803 ticks behind
-[17:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17535ms or 350 ticks behind
-[17:30:45] [Server thread/WARN]: Enigma_Sage moved wrongly!
-[17:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23986ms or 479 ticks behind
-[17:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22504ms or 450 ticks behind
-[17:32:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3814, l='world', x=-212.69, y=11.63, z=-148.52]
-[17:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24527ms or 490 ticks behind
-[17:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18653ms or 373 ticks behind
-[17:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21844ms or 436 ticks behind
-[17:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23164ms or 463 ticks behind
-[17:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23123ms or 462 ticks behind
-[17:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16978ms or 339 ticks behind
-[17:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21211ms or 424 ticks behind
-[17:36:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17837ms or 356 ticks behind
-[17:36:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18855ms or 377 ticks behind
-[17:37:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17194ms or 343 ticks behind
-[17:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19020ms or 380 ticks behind
-[17:38:06] [Server thread/INFO]: adamcorn has made the advancement [Take Aim]
-[17:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15443ms or 308 ticks behind
-[17:39:01] [User Authenticator #4/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
-[17:39:02] [Server thread/INFO]: ruvane3[/73.203.118.151:63787] logged in with entity id 5116 at (-27.161801141454614, 79.0, -68.20106012743264)
-[17:39:02] [Server thread/INFO]: ruvane3 joined the game
-[17:39:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26029ms or 520 ticks behind
-[17:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21877ms or 437 ticks behind
-[17:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16686ms or 333 ticks behind
-[17:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23349ms or 466 ticks behind
-[17:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23764ms or 475 ticks behind
-[17:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23480ms or 469 ticks behind
-[17:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32115ms or 642 ticks behind
-[17:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25322ms or 506 ticks behind
-[17:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24405ms or 488 ticks behind
-[17:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24486ms or 489 ticks behind
-[17:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24818ms or 496 ticks behind
-[17:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25484ms or 509 ticks behind
-[17:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23165ms or 463 ticks behind
-[17:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23983ms or 479 ticks behind
-[17:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22605ms or 452 ticks behind
-[17:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20527ms or 410 ticks behind
-[17:48:58] [Server thread/INFO]: <ruvane3> sleep
-[17:48:59] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[17:48:59] [Server thread/INFO]: adamcorn left the game
-[17:49:01] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[17:49:01] [Server thread/INFO]: Enigma_Sage left the game
-[17:49:07] [User Authenticator #5/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[17:49:08] [Server thread/INFO]: adamcorn[/127.0.0.1:57411] logged in with entity id 6340 at (86.30000001192093, 14.0, -104.60541072176444)
-[17:49:08] [Server thread/INFO]: adamcorn joined the game
-[17:49:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22124ms or 442 ticks behind
-[17:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15212ms or 304 ticks behind
-[17:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13671ms or 273 ticks behind
-[17:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16412ms or 328 ticks behind
-[17:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16616ms or 332 ticks behind
-[17:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11613ms or 232 ticks behind
-[17:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22478ms or 449 ticks behind
-[17:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19015ms or 380 ticks behind
-[17:53:43] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[17:53:43] [Server thread/INFO]: adamcorn left the game
-[17:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19495ms or 389 ticks behind
-[17:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11686ms or 233 ticks behind
-[17:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5264ms or 105 ticks behind
-[17:54:44] [User Authenticator #6/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
-[17:54:44] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:60471] logged in with entity id 7143 at (-179.473014364755, 11.0, -59.70811324086395)
-[17:54:44] [Server thread/INFO]: Enigma_Sage joined the game
-[17:58:57] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
-[17:58:57] [Server thread/INFO]: Enigma_Sage left the game
-[17:59:05] [Server thread/INFO]: ruvane3 lost connection: Disconnected
-[17:59:05] [Server thread/INFO]: ruvane3 left the game
-[18:40:30] [Server thread/INFO]: Stopping the server
-[18:40:30] [Server thread/INFO]: Stopping server
-[18:40:30] [Server thread/INFO]: Saving players
-[18:40:30] [Server thread/INFO]: Saving worlds
-[18:40:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[18:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:40:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[18:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:40:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[18:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:31:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:31:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:31:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:31:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:31:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:31:55] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:31:55] [Server thread/INFO]: Loading properties
+[20:31:55] [Server thread/INFO]: Default game type: SURVIVAL
+[20:31:55] [Server thread/INFO]: Generating keypair
+[20:31:55] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at wd$2.run(SourceFile:110) [minecraft2020.jar:?]
+[20:31:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:31:55] [Server thread/INFO]: Using default channel type
+[20:31:56] [Server thread/INFO]: Preparing level "world"
+[20:31:56] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:31:57] [Server thread/INFO]: Loaded 6 recipes
+[20:31:57] [Server thread/INFO]: Loaded 825 advancements
+[20:31:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:31:58] [Server thread/INFO]: Preparing spawn area: 0%
+[20:31:58] [Server thread/INFO]: Preparing spawn area: 0%
+[20:31:58] [Server thread/INFO]: Preparing spawn area: 0%
+[20:32:00] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:32:00] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:32:00] [Server thread/INFO]: Preparing spawn area: 48%
+[20:32:00] [Server thread/INFO]: Time elapsed: 2660 ms
+[20:32:00] [Server thread/INFO]: Done (4.196s)! For help, type "help"
+[20:32:13] [User Authenticator #1/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[20:32:13] [Server thread/INFO]: ruvane3[/73.203.118.151:51584] logged in with entity id 212 at (-21.70978625676421, 69.0, -65.54512235547722)
+[20:32:13] [Server thread/INFO]: ruvane3 joined the game
+[20:38:12] [User Authenticator #2/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[20:38:12] [Server thread/INFO]: adamcorn[/71.231.143.243:53833] logged in with entity id 1179 at (94.21887914591052, 17.0, -78.69999998807909)
+[20:38:12] [Server thread/INFO]: adamcorn joined the game
+[20:45:10] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[20:45:10] [Server thread/INFO]: adamcorn left the game
+[20:45:17] [User Authenticator #3/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[20:45:17] [Server thread/INFO]: adamcorn[/71.231.143.243:53850] logged in with entity id 2704 at (128.30000001192093, 10.0, -102.22612026221675)
+[20:45:17] [Server thread/INFO]: adamcorn joined the game
+[20:55:13] [User Authenticator #4/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:55:13] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:49362] logged in with entity id 4778 at (-8.66542181173785, 74.0, -67.22877241248764)
+[20:55:13] [Server thread/INFO]: Enigma_Sage joined the game
+[20:55:46] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[20:55:46] [Server thread/INFO]: Enigma_Sage left the game
+[20:56:15] [User Authenticator #5/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[20:56:16] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:49433] logged in with entity id 4966 at (-22.037786085414023, 69.0, -62.54852136944007)
+[20:56:16] [Server thread/INFO]: Enigma_Sage joined the game
+[20:56:31] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[20:56:31] [Server thread/INFO]: adamcorn left the game
+[20:56:40] [User Authenticator #6/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[20:56:40] [Server thread/INFO]: adamcorn[/71.231.143.243:53873] logged in with entity id 5027 at (71.05939154044393, 28.0, -22.3051840927001)
+[20:56:40] [Server thread/INFO]: adamcorn joined the game
+[21:07:46] [Server thread/INFO]: <ruvane3> sleep
+[21:07:48] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[21:07:48] [Server thread/INFO]: adamcorn left the game
+[21:07:52] [User Authenticator #7/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[21:07:52] [Server thread/INFO]: adamcorn[/71.231.143.243:53900] logged in with entity id 7234 at (-11.498385479158262, 11.0, -53.80677894242031)
+[21:07:52] [Server thread/INFO]: adamcorn joined the game
+[21:18:37] [Server thread/INFO]: <adamcorn> sleep
+[21:18:40] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[21:18:40] [Server thread/INFO]: ruvane3 left the game
+[21:18:46] [User Authenticator #8/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[21:18:46] [Server thread/INFO]: ruvane3[/73.203.118.151:52119] logged in with entity id 9217 at (-31.62456652854168, 79.0, -67.28630035101669)
+[21:18:46] [Server thread/INFO]: ruvane3 joined the game
+[21:40:48] [Server thread/INFO]: <adamcorn> sleeeeep
+[21:40:51] [Server thread/INFO]: <ruvane3> sleeep
+[21:40:54] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[21:40:54] [Server thread/INFO]: Enigma_Sage left the game
+[21:40:54] [Server thread/INFO]: <ruvane3> zzzz
+[21:41:52] [Server thread/INFO]: <ruvane3> we can hear you
+[21:46:17] [User Authenticator #9/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[21:46:17] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:49694] logged in with entity id 13642 at (-18.735947520121474, 67.0, -85.99201123442992)
+[21:46:17] [Server thread/INFO]: Enigma_Sage joined the game
+[21:51:36] [Server thread/INFO]: <adamcorn> sleep
+[21:51:38] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[21:51:38] [Server thread/INFO]: ruvane3 left the game
+[21:51:46] [User Authenticator #10/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[21:51:46] [Server thread/INFO]: ruvane3[/73.203.118.151:52497] logged in with entity id 14372 at (40.236761205259874, 62.07326522885655, -102.19670686041268)
+[21:51:46] [Server thread/INFO]: ruvane3 joined the game
+[22:02:39] [Server thread/INFO]: <adamcorn> sleep
+[22:07:36] [Server thread/WARN]: Horse moved wrongly!
+[22:07:37] [Server thread/WARN]: Horse moved wrongly!
+[22:11:03] [Server thread/WARN]: Horse moved wrongly!
+[22:11:22] [Server thread/WARN]: Horse moved wrongly!
+[22:11:22] [Server thread/WARN]: Horse moved wrongly!
+[22:13:54] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[22:13:54] [Server thread/INFO]: ruvane3 left the game
+[22:14:11] [User Authenticator #11/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[22:14:11] [Server thread/INFO]: ruvane3[/73.203.118.151:52774] logged in with entity id 18443 at (-19.092567554042645, 77.5, -58.869806536154215)
+[22:14:11] [Server thread/INFO]: ruvane3 joined the game
+[22:26:38] [Server thread/INFO]: <Enigma_Sage> sleep
+[22:26:40] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[22:26:40] [Server thread/INFO]: ruvane3 left the game
+[22:26:49] [User Authenticator #12/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[22:26:49] [Server thread/INFO]: ruvane3[/73.203.118.151:52930] logged in with entity id 21425 at (-31.804136121815677, 79.0, -65.36886065107664)
+[22:26:49] [Server thread/INFO]: ruvane3 joined the game
+[22:30:14] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[22:30:14] [Server thread/INFO]: Enigma_Sage left the game
+[22:30:40] [User Authenticator #13/INFO]: UUID of player Enigma_Sage is cde4f279-629f-41b9-952c-2db89438c47e
+[22:30:40] [Server thread/INFO]: Enigma_Sage[/73.203.118.151:51074] logged in with entity id 22931 at (4.430322665256316, 66.0, -72.72212521255665)
+[22:30:40] [Server thread/INFO]: Enigma_Sage joined the game
+[22:37:48] [Server thread/INFO]: <adamcorn> sleep
+[22:37:58] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[22:37:58] [Server thread/INFO]: ruvane3 left the game
+[22:38:11] [User Authenticator #14/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[22:38:11] [Server thread/INFO]: ruvane3[/73.203.118.151:53127] logged in with entity id 26040 at (-18.56218168319633, 79.0, -63.886740108702874)
+[22:38:11] [Server thread/INFO]: ruvane3 joined the game
+[22:47:25] [Server thread/INFO]: adamcorn has made the advancement [Cover Me With Diamonds]
+[22:49:09] [Server thread/INFO]: <adamcorn> sleep
+[22:49:16] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[22:49:16] [Server thread/INFO]: ruvane3 left the game
+[22:49:24] [User Authenticator #15/INFO]: UUID of player ruvane3 is 43c064c5-f34c-42f4-97a8-5b9992e2e405
+[22:49:24] [Server thread/INFO]: ruvane3[/73.203.118.151:53277] logged in with entity id 27448 at (-27.360495794942697, 79.0, -69.9218003006366)
+[22:49:24] [Server thread/INFO]: ruvane3 joined the game
+[22:55:20] [Server thread/INFO]: ruvane3 lost connection: Disconnected
+[22:55:20] [Server thread/INFO]: ruvane3 left the game
+[22:57:32] [Server thread/INFO]: Enigma_Sage lost connection: Disconnected
+[22:57:32] [Server thread/INFO]: Enigma_Sage left the game
+[22:57:35] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[22:57:35] [Server thread/INFO]: adamcorn left the game
+[22:57:43] [Server thread/INFO]: Stopping the server
+[22:57:43] [Server thread/INFO]: Stopping server
+[22:57:43] [Server thread/INFO]: Saving players
+[22:57:43] [Server thread/INFO]: Saving worlds
+[22:57:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
