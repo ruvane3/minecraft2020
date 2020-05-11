@@ -1,33 +1,174 @@
-[07:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
-[07:06:23] [Server thread/INFO]: adamcorn lost connection: Timed out
-[07:06:23] [Server thread/INFO]: adamcorn left the game
-[07:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26392852ms or 527857 ticks behind
-[07:06:41] [User Authenticator #2/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[07:06:41] [Server thread/INFO]: adamcorn[/127.0.0.1:64782] logged in with entity id 9743 at (-33.394705379823264, 65.0, -137.16129357674174)
-[07:06:41] [Server thread/INFO]: adamcorn joined the game
-[07:08:33] [Server thread/INFO]: Villager axw['Villager'/192, l='world', x=7.70, y=70.00, z=-96.70] died, message: 'Villager was slain by Zombie'
-[07:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
-[08:26:47] [Server thread/INFO]: adamcorn lost connection: Timed out
-[08:26:48] [Server thread/INFO]: adamcorn left the game
-[08:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4279886ms or 85597 ticks behind
-[08:27:09] [User Authenticator #3/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
-[08:27:09] [Server thread/INFO]: adamcorn[/127.0.0.1:65195] logged in with entity id 10451 at (-33.304028881007795, 65.0, -137.7242521167576)
-[08:27:09] [Server thread/INFO]: adamcorn joined the game
-[08:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[08:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[08:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6141ms or 122 ticks behind
-[08:40:38] [Server thread/INFO]: adamcorn lost connection: Disconnected
-[08:40:38] [Server thread/INFO]: adamcorn left the game
-[08:40:43] [Server thread/INFO]: Stopping the server
-[08:40:43] [Server thread/INFO]: Stopping server
-[08:40:43] [Server thread/INFO]: Saving players
-[08:40:43] [Server thread/INFO]: Saving worlds
-[08:40:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[08:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:40:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[08:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:40:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[08:40:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:40:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:40:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:40:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:37:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:37:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:37:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:37:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:37:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:37:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[12:37:14] [Server thread/INFO]: Loading properties
+[12:37:14] [Server thread/INFO]: Default game type: SURVIVAL
+[12:37:14] [Server thread/INFO]: Generating keypair
+[12:37:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:37:15] [Server thread/INFO]: Using default channel type
+[12:37:21] [Server thread/INFO]: Preparing level "world"
+[12:37:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:37:24] [Server thread/INFO]: Loaded 6 recipes
+[12:37:25] [Server thread/INFO]: Loaded 825 advancements
+[12:37:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:34] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:14] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:38:15] [Server thread/INFO]: Preparing spawn area: 12%
+[12:38:16] [Server thread/INFO]: Preparing spawn area: 62%
+[12:38:16] [Server thread/INFO]: Preparing spawn area: 62%
+[12:38:17] [Server thread/INFO]: Time elapsed: 47441 ms
+[12:38:17] [Server thread/INFO]: Done (56.201s)! For help, type "help"
+[12:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
+[12:38:26] [User Authenticator #1/INFO]: UUID of player adamcorn is 5b804b0c-f756-46b7-b5f3-1799b65744b2
+[12:38:31] [Server thread/INFO]: adamcorn[/127.0.0.1:63785] logged in with entity id 235 at (-33.30000001192093, 64.0, -137.4079659091582)
+[12:38:31] [Server thread/INFO]: adamcorn joined the game
+[12:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40260ms or 805 ticks behind
+[12:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10662ms or 213 ticks behind
+[12:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9046ms or 180 ticks behind
+[12:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5559ms or 111 ticks behind
+[12:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[12:41:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4745ms or 94 ticks behind
+[12:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4535ms or 90 ticks behind
+[12:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[12:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4494ms or 89 ticks behind
+[12:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[12:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[12:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[12:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[12:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5457ms or 109 ticks behind
+[12:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6115ms or 122 ticks behind
+[12:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[12:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[12:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[12:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[12:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[12:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:47:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4532ms or 90 ticks behind
+[12:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:48:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
+[12:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[12:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[12:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[12:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[12:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
+[12:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[12:51:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
+[12:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6650ms or 133 ticks behind
+[12:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41843ms or 836 ticks behind
+[12:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47173ms or 943 ticks behind
+[12:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[12:55:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[12:55:32] [Server thread/INFO]: adamcorn lost connection: Disconnected
+[12:55:32] [Server thread/INFO]: adamcorn left the game
+[12:55:35] [Server thread/INFO]: Stopping the server
+[12:55:35] [Server thread/INFO]: Stopping server
+[12:55:35] [Server thread/INFO]: Saving players
+[12:55:35] [Server thread/INFO]: Saving worlds
+[12:55:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:55:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:55:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:55:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:55:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:55:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:55:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:55:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:55:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
