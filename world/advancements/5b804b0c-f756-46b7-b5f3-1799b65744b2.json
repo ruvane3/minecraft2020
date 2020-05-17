@@ -1165,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-05-16 20:46:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-03-17 21:22:08 -0600"
@@ -1842,7 +1848,8 @@
       "apple": "2020-03-31 21:27:57 -0600",
       "cooked_cod": "2020-05-16 15:33:41 -0600",
       "bread": "2020-03-25 22:57:01 -0600",
-      "cooked_salmon": "2020-04-13 22:49:41 -0600"
+      "cooked_salmon": "2020-04-13 22:49:41 -0600",
+      "carrot": "2020-05-16 20:56:40 -0600"
     },
     "done": false
   },
